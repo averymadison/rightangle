@@ -10,6 +10,10 @@
     img {
       display: block;
       max-width: 100%;
+      border-radius: 2px;
+    }
+    &-wide {
+      width: calc(100%/1.5 - 12px);
     }
   }
 

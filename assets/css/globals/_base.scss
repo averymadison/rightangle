@@ -5,8 +5,6 @@ html { box-sizing: border-box; }
 
 body {
   background: $color_sand;
-  // Escape position:fixed header
-  padding-top: $height_header;
 }
 
 main {

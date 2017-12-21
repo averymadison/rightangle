@@ -1,8 +1,4 @@
-<?php snippet('header') ?>
-
-<div class="intro">
-  <?php echo $page->intro()->html() ?>
-</div>
+<?php snippet('nav') ?>
 
 <div class="button-group filter-button-group">
   <button data-filter="*" class="is-checked">show all</button>
@@ -10,6 +6,9 @@
   <button data-filter=".remodel">remodel</button>
 </div>
 
+  <div class="gallery-item intro gallery-item-wide">
+    <?php echo $page->intro()->html() ?>
+  </div>
 <div class="photoswipe gallery" itemscope itemtype="http://schema.org/ImageGallery">
   <?php
     $pages = page('projects')->children();
