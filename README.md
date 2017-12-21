@@ -12,19 +12,16 @@ tool for your next project.
 ## Buy a license
 
 You can purchase your Kirby license at
-<https://getkirby.com/buy>
+<http://getkirby.com/buy>
 
-A Kirby license is valid for a single domain. You can find
-Kirby's license agreement here: <https://getkirby.com/license>
+A Kirby license is valid for a single domain. You can find 
+Kirby's license agreement here: <http://getkirby.com/license>
 
-## The Starterkit
+## The Plainkit
 
-Kirby's Starterkit comes with a small demo website and a fully
-configured panel. Feel free to modify it and play with it as
-much as you like.
-
-There's also the [Langkit](https://github.com/getkirby/langkit.git)
-in case you need a multi-language installation.
+Kirby's Plainkit is the most minimal setup you can get started with.
+It does not include any content, styles or other kinds of decoration, 
+so it's perfect to use this as a starting point for your own project.
 
 ## The Panel
 
@@ -49,18 +46,17 @@ Kirby runs on PHP 5.4+, Apache or Nginx.
 ### Download
 
 You can download the latest version of the Starterkit
-from https://download.getkirby.com
+from http://download.getkirby.com
 
 ### With Git
 
 If you are familiar with Git, you can clone Kirby's
 Starterkit repository from Github.
 
-    git clone https://github.com/getkirby/starterkit.git
+    git clone https://github.com/getkirby/plainkit.git
 
 ## Documentation
-
-<https://getkirby.com/docs>
+<http://getkirby.com/docs>
 
 ## Issues and feedback
 
@@ -69,14 +65,13 @@ directly on Github:
 
 - <https://github.com/getkirby/kirby/issues>
 - <https://github.com/getkirby/panel/issues>
-- <https://github.com/getkirby/starterkit/issues>
+- <https://github.com/getkirby/plainkit/issues>
 
-Otherwise you can use Kirby's forum: https://forum.getkirby.com
+Otherwise you can use Kirby's forum: http://getkirby.com/forum
 or send us an email: <support@getkirby.com>
 
 ## Support
-
-<https://getkirby.com/support>
+<http://getkirby.com/support>
 
 ## Copyright
 
