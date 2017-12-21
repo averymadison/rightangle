@@ -8,6 +8,13 @@ fields:
   text:
     label: Text
     type:  textarea
+  category:
+    label: Category
+    type: select
+    required: true
+    options:
+      furniture: Furniture
+      remodel: Remodel
   woods:
     label: Wood Types
     type:  tags

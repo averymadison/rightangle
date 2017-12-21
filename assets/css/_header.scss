@@ -1,0 +1,30 @@
+// Header
+
+header {
+  background: $color_white;
+  width: 100vw;
+  height: $height_header;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  box-shadow: 0 24px 32px rgba(0,0,0,0.05);
+  z-index: $z_header;
+
+  .logo {
+    height: $height_header;
+    width: $height_header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate3d(-50%, 0, 0);
+  }
+
+  nav {
+    float: right;
+  }
+}

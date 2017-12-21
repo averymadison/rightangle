@@ -1,0 +1,22 @@
+// Gallery
+
+.gallery {
+  width: 100%;
+
+  .gallery-item {
+    width: calc(100%/3 - 8px);
+    margin: 0;
+    margin-bottom: 12px;
+    img {
+      display: block;
+      max-width: 100%;
+    }
+  }
+
+  // Clearfix
+  :after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}

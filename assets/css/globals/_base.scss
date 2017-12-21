@@ -1,0 +1,14 @@
+// Base
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+body {
+  background: $color_sand;
+  // Escape position:fixed header
+  padding-top: $height_header;
+}
+
+main {
+  padding: 2rem;
+}
