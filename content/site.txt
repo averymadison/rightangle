@@ -2,4 +2,21 @@ Title: Right Angle Woodworks
 
 ----
 
-Text: 
+Description:
+
+----
+
+Name: John E. Decker
+
+----
+
+JobTitle: Craftsman
+
+----
+
+Phone: (828) 808-1091
+
+----
+
+Email: john@rightanglewoodworks.com
+

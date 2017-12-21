@@ -1,9 +1,0 @@
-Title: Black Locust Lounge Set
-
-----
-
-Text: Lounge set text.
-
-----
-
-Woods: black locust

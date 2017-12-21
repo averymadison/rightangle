@@ -7,12 +7,12 @@
 
   <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
 
-  <!-- PHOTOSWIPE -->
-
   <link rel="stylesheet" href="node_modules/photoswipe/dist/photoswipe.css">
   <link rel="stylesheet" href="node_modules/photoswipe/dist/default-skin/default-skin.css">
   <script src="node_modules/photoswipe/dist/photoswipe.min.js"></script>
   <script src="node_modules/photoswipe/dist/photoswipe-ui-default.min.js"></script>
+
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 
 </head>
 <body>
@@ -20,4 +20,5 @@
     <div class="logo">
       Right Angle Woodworks
     </div>
+    <?php snippet('nav') ?>
   </header>
