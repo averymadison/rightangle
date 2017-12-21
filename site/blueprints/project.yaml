@@ -1,0 +1,16 @@
+title: Project
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  woods:
+    label: Wood Types
+    type:  tags
+    index: siblings
+    lower: true
+

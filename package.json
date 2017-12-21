@@ -1,0 +1,25 @@
+{
+  "name": "rightangle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Professional site for John Decker.",
+  "main": "index.php",
+  "dependencies": {
+    "masonry-layout": "^4.2.0",
+    "photoswipe": "^4.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdeckr/rightangle.git"
+  },
+  "author": "Kyle Decker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdeckr/rightangle/issues"
+  },
+  "homepage": "https://github.com/kdeckr/rightangle#readme"
+}
