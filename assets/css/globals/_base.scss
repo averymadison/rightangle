@@ -4,9 +4,18 @@ html { box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
 
 body {
-  background: $color_sand;
+  background: $color_birch;
+  color: $color_text;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
 }
 
 main {
+  height: 100vh;
   padding: 2rem;
+  overflow-y: scroll;
+  position: relative;
+  // Enable elastic scroll
+  -webkit-overflow-scrolling: touch;
 }

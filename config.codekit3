@@ -30,6 +30,19 @@
 		"oAP": "\/assets\/css\/.gitkeep",
 		"oF": 0
 		},
+	"\/assets\/css\/_footer.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_footer.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/_gallery.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -56,6 +69,32 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/_page.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_page.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/css\/_testimonials.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_testimonials.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/globals\/_base.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -65,6 +104,32 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/assets\/css\/globals\/_base.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/css\/globals\/_buttons.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/globals\/_buttons.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"\/assets\/css\/globals\/_mixins.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/globals\/_mixins.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -123,6 +188,62 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/fonts\/.gitkeep",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans_bold.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans_bold.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans_bold.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans_bold.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans_bold_italic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans_bold_italic.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans_bold_italic.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans_bold_italic.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans_italic.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans_italic.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/fontin_sans_italic.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/fontin_sans_italic.woff2",
 		"oF": 0
 		},
 	"\/assets\/images\/.gitkeep": {
@@ -588,6 +709,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/content\/site.txt",
+		"oF": 0
+		},
+	"\/content\/testimonials\/testimonials.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/testimonials\/testimonials.txt",
 		"oF": 0
 		},
 	"\/index.php": {
@@ -6648,6 +6776,13 @@
 		"oAP": "\/site\/blueprints\/projects.yaml",
 		"oF": 0
 		},
+	"\/site\/blueprints\/testimonials.yaml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/blueprints\/testimonials.yaml",
+		"oF": 0
+		},
 	"\/site\/cache": {
 		"ft": 65536,
 		"oA": 1,
@@ -6668,42 +6803,6 @@
 		"oAP": "\/site\/plugins\/.gitkeep",
 		"oF": 0
 		},
-	"\/site\/plugins\/photoswipe\/LICENSE": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/site\/plugins\/photoswipe\/LICENSE",
-		"oF": 0
-		},
-	"\/site\/plugins\/photoswipe\/package.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "\/site\/plugins\/photoswipe\/package-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"\/site\/plugins\/photoswipe\/photoswipe.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/site\/plugins\/photoswipe\/photoswipe.php",
-		"oF": 0
-		},
-	"\/site\/plugins\/photoswipe\/src\/html.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/site\/plugins\/photoswipe\/src\/html.html",
-		"oF": 0
-		},
-	"\/site\/plugins\/photoswipe\/templates\/pswp.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/site\/plugins\/photoswipe\/templates\/pswp.php",
-		"oF": 0
-		},
 	"\/site\/snippets\/footer.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -6716,6 +6815,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/snippets\/nav.php",
+		"oF": 0
+		},
+	"\/site\/snippets\/photoswipe.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/snippets\/photoswipe.php",
 		"oF": 0
 		},
 	"\/site\/templates\/default.php": {

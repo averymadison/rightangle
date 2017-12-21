@@ -1,1 +1,72 @@
 // Typography
+
+@font-face {
+  font-family: 'Fontin Sans';
+  src: url('../fonts/fontin_sans.woff2') format('woff2'),
+       url('../fonts/fontin_sans.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontin Sans';
+  src: url('../fonts/fontin_sans_italic.woff2') format('woff2'),
+       url('../fonts/fontin_sans_italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Fontin Sans';
+  src: url('../fonts/fontin_sans_bold.woff2') format('woff2'),
+       url('../fonts/fontin_sans_bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fontin Sans';
+  src: url('../fonts/fontin_sans_bold_italic.woff2') format('woff2'),
+       url('../fonts/fontin_sans_bold_italic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+%font-serif {
+  font-family: "Fontin Sans", Georgia, Times, serif;
+}
+
+::selection {
+  background-color: $color_oak;
+}
+
+html {
+  -webkit-font-smoothing: antialiased; // Fix fatty fonts
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-weight: regular;
+  font-size: 14px;
+  line-height: 1.5;
+  @extend %font-serif;
+  @include media-min(400px) { font-size: 15px; }
+  @include media-min(500px) { font-size: 16px; }
+  @include media-min(620px) { font-size: 17px; }
+  @include media-min(820px) { font-size: 18px; }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1 {
+  line-height: 68px;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+h1, p, blockquote {
+  margin: 0;
+}

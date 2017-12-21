@@ -1,0 +1,25 @@
+button {
+  @extend %font-serif;
+  text-transform: capitalize;
+  background: darken($color_birch, 4);
+  border: none;
+  border-radius: $button_radius;
+  cursor: pointer;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 20px;
+  color: $color_text;
+  margin: 0 8px;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  &:hover {
+    background: darken($color_birch, 8);
+  }
+  &:focus {
+    outline: none !important;
+  }
+  &:active {
+    background: darken($color_birch, 12);
+  }
+}

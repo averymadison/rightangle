@@ -1,0 +1,23 @@
+// Footer
+
+footer {
+  text-align: center;
+  padding-top: 2rem;
+  &:before {
+    content: '';
+    width: 40%;
+    height: 1px;
+    display: inline-block;
+    margin-bottom: 2rem;
+    background: $color_text_light;
+    color: $color_text_light;
+  }
+
+  .footer-name {
+    margin: 0 2rem;
+  }
+
+  .contact-info {
+
+  }
+}

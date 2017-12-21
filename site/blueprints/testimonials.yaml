@@ -1,0 +1,26 @@
+title: Testimonials
+pages: false
+files: false
+fields:
+  testimonials:
+    label: Testimonials
+    type: structure
+    fields:
+      quote:
+        label: Quote
+        type:  textarea
+        required: true
+        icon: quote-right
+        placeholder: John is the best!!!!!
+      customer:
+        label: Customer
+        type:  text
+        required: true
+        icon: user
+        placeholder: Meg Decker
+      location:
+        label: Location
+        type:  text
+        required: true
+        icon: map-marker
+        placeholder: Hendersonville, NC

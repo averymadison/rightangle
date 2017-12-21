@@ -1,0 +1,48 @@
+// Testimonial Cards
+
+.testimonial {
+
+  blockquote {
+
+    .quote {
+      font-style: italic;
+      p:first-child {
+        text-indent: -0.4em;
+        &:before {
+          content: '“';
+        }
+      }
+      p:last-child:after {
+        content: '”';
+      }
+      strong {
+        display: inline;
+      }
+    }
+
+    cite {
+      display: block;
+      padding-top: 1rem;
+      font-style: normal;
+      padding-left: 1rem;
+      position: relative;
+      &:before {
+        content: '—';
+        left: 0;
+        position: absolute;
+      }
+    }
+
+    .quote-author {
+      font-weight: bold;
+    }
+
+    .quote-location {
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-size: 0.9rem;
+      font-weight: bold;
+      color: $color_text_light;
+    }
+  }
+}

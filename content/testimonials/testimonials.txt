@@ -1,0 +1,23 @@
+Title: Testimonials
+
+----
+
+Testimonials: 
+
+- 
+  quote: >
+    I can’t say enough good things about
+    their workmanship with attention to
+    details. I would highly recommend John.
+    It’s worth waiting as the job gets
+    done right.
+  customer: Kay Reark
+  location: Sebring, FL
+- 
+  quote: "When John is doing work for us, we can give him full access to the house while we vacation many miles away. There are so many great things that we can say about John and his work—however, the nicest part is always knowing that when John is doing a job, we don't have to worry about the process or the results. We know that we are going to be happy."
+  customer: 'Linda Hoyle & Ron Callahan'
+  location: Hendersonville, NC
+- 
+  quote: "It is always a pleasure having John do work for us. We have used some other contractors who did a great job, but not the way John does a great job. John is our favorite because he goes beyond what is required: he fixes things that he finds that are broken and often cleans up others' messes."
+  customer: 'Linda Hoyle & Ron Callahan'
+  location: Hendersonville, NC

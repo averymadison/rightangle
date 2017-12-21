@@ -1,0 +1,56 @@
+// Nav Sidebar
+
+header {
+  background: $color_text;
+  box-shadow: 12px 0 32px rgba(0,0,0,0.03);
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: $nav_width;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  .logo {
+    width: $nav_width;
+    height: $nav_width;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    a {
+      padding: 12px;
+      border-radius: 4px;
+      &:hover {
+        background: $color_birch;
+      }
+    }
+  }
+
+  nav {
+    .nav-item {
+      width: 100%;
+      display: block;
+      text-align: center;
+      line-height: 2;
+      color: $color_birch;
+    }
+  }
+
+  .copyright {
+    margin-top: auto;
+    margin-bottom: 2rem;
+    color: $color_text_light;
+    font-size: 0.9rem;
+    font-variant-numeric: oldstyle-nums;
+    p {
+      margin: 0;
+    }
+  }
+}
+
+main {
+  margin-left: $nav_width;
+}

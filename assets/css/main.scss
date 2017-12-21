@@ -1,8 +1,13 @@
 @import '../../node_modules/normalize.css/normalize.css';
 
+@import 'globals/mixins';
 @import 'globals/variables';
-@import 'globals/base';
 @import 'globals/typography';
+@import 'globals/base';
+@import 'globals/buttons';
 
+@import 'page';
 @import 'gallery';
+@import 'testimonials';
 @import 'nav';
+@import 'footer';
