@@ -25,9 +25,10 @@
     }
     &-text {
       padding: 2rem;
-      background-color: $color_oak;
-      //background-image: url('../images/woodgrain.svg');
-      //background-repeat: repeat;
+      background-color: $color_white;
+      background-image: url('../images/bg-white.png');
+      background-size: 300px;
+      background-repeat: repeat;
     }
   }
 
@@ -40,21 +41,19 @@
 }
 
 .filter-bar {
-  padding: 2px;
-  border-radius: 6px;
-  text-align: right;
+  background: $color_white;
+  box-shadow: 0 8px 16px -8px rgba(0,0,0,0.05);
+  border-radius: $button_radius;
+  overflow: hidden;
+  float: right;
   z-index: $z_filter;
   button {
     margin: 0;
     border-radius: 0;
     background: transparent;
     color: $color_text;
-    border: 2px solid $color_text;
-    &:hover {
-      background: $color_white;
-    }
     + button {
-      border-left: 0;
+      border-left: 1px solid $color_birch;
     }
     &:first-child {
       border-bottom-left-radius: $button_radius;
@@ -65,7 +64,7 @@
       border-top-right-radius: $button_radius;
     }
     &.is-checked {
-      background: $color_text;
+      background: $color_oak;
       color: $color_white;
     }
   }

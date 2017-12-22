@@ -2,6 +2,9 @@
 
 header {
   background-color: $color_white;
+  background-image: url('../images/bg-white.png');
+  background-size: 300px;
+  background-repeat: repeat;
   box-shadow: 8px 0 40px rgba(0,0,0,0.02);
   height: 100vh;
   position: fixed;
@@ -45,9 +48,9 @@ header {
   .copyright {
     margin-top: auto;
     margin-bottom: 2rem;
-    color: $color_text_light;
+    color: lighten($color_text_light, 20);
     font-size: 0.9rem;
-    font-variant-numeric: oldstyle-nums;
+    font-weight: 500;
     p {
       margin: 0;
     }

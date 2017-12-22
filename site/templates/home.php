@@ -13,7 +13,12 @@
   <div class="gallery-item gallery-item-wide gallery-item-text">
     <?php echo $page->intro()->html() ?>
   </div>
+
   <?php
+    $i = 0;
+    $testimonials = page('testimonials')->testimonials();
+    $numTestimonials = $testimonials->toStructure()->count();
+
     $pages = page('projects')->children()->flip();
     foreach ($pages as $page): ?>
 
@@ -31,25 +36,35 @@
         </a>
       </figure>
     <?php endforeach; ?>
-  <?php endforeach; ?>
-  <?php
-    foreach (page('testimonials')->testimonials()->toStructure() as $testimonial): ?>
-    <div class="gallery-item gallery-item-text testimonial" itemscope itemtype="http://schema.org/Review">
-      <blockquote>
-        <div class="quote" itemprop="name">
-          <?= $testimonial->quote()->kirbytext() ?>
-        </div>
-        <cite itemscope itemtype="http://schema.org/Person">
-          <div class="quote-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
-            <?= $testimonial->customer() ?>
+
+    <!-- After one project page, check for a testimonial. If one exists, insert it. -->
+    <?php
+      if($i < $numTestimonials):
+        $testimonial = $testimonials->toStructure()->nth($i);
+      ?>
+      <div class="gallery-item gallery-item-text testimonial" itemscope itemtype="http://schema.org/Review">
+        <blockquote>
+          <div class="quote" itemprop="name">
+            <?= $testimonial->quote()->kirbytext() ?>
           </div>
-          <div class="quote-location" itemprop="location" itemscope itemtype="http://schema.org/Place">
-            <?= $testimonial->location() ?>
-          </div>
-        </cite>
-      </blockquote>
-    </div>
+          <cite itemscope itemtype="http://schema.org/Person">
+            <div class="quote-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+              <?= $testimonial->customer() ?>
+            </div>
+            <div class="quote-location" itemprop="location" itemscope itemtype="http://schema.org/Place">
+              <?= $testimonial->location() ?>
+            </div>
+          </cite>
+        </blockquote>
+      </div>
+    <?php
+      $i++;
+      endif;
+    ?>
+
   <?php endforeach; ?>
+
+
 </div>
 
 <!-- Load Isotope and Photoswipe -->
