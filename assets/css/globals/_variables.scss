@@ -11,10 +11,13 @@ $color_cherry: #D35A53;
 $color_oak: #ECC875;
 $color_walnut: #9F7E66;
 
+$color_border: darken($color_birch, 6);
+
 // Sizing
 $nav_width: 140px;
 $gallery_gutter: 6px;
 $button_radius: 3rem;
+$filter_radius: 2px;
 
 // Z-indices
 $z_mapbg: 1;
@@ -22,3 +25,6 @@ $z_maptext: 5;
 $z_header: 100;
 $z_filter: 50;
 
+// Breakpoints
+$bp_gallery_2col: 1160px;
+$bp_gallery_1col: 760px;

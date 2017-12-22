@@ -6,6 +6,12 @@
 
   .gallery-sizer, .gallery-item {
     width: calc(100%/3 - #{$gallery_gutter}*0.666666666);
+    @include media-max($bp_gallery_2col) {
+      width: calc(100%/2 - #{$gallery_gutter}*0.5);
+    }
+    @include media-max($bp_gallery_1col) {
+      width: 100%;
+    }
   }
 
   .gallery-gutter {
@@ -22,6 +28,9 @@
     }
     &-wide {
       width: calc(100%/1.5 - #{$gallery_gutter}*0.333333333);
+      @include media-max($bp_gallery_2col) {
+        width: 100%;
+      }
     }
     &-text {
       padding: 2rem;
@@ -40,32 +49,46 @@
   }
 }
 
+.gallery-controls {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
 .filter-bar {
-  background: $color_white;
   box-shadow: 0 8px 16px -8px rgba(0,0,0,0.05);
-  border-radius: $button_radius;
+  border-radius: $filter_radius;
   overflow: hidden;
-  float: right;
-  z-index: $z_filter;
+  display: flex;
+  align-items: stretch;
+
   button {
+    flex: 1;
     margin: 0;
     border-radius: 0;
-    background: transparent;
-    color: $color_text;
     + button {
       border-left: 1px solid $color_birch;
     }
     &:first-child {
-      border-bottom-left-radius: $button_radius;
-      border-top-left-radius: $button_radius;
+      border-bottom-left-radius: $filter_radius;
+      border-top-left-radius: $filter_radius;
     }
     &:last-child {
-      border-bottom-right-radius: $button_radius;
-      border-top-right-radius: $button_radius;
+      border-bottom-right-radius: $filter_radius;
+      border-top-right-radius: $filter_radius;
     }
     &.is-checked {
       background: $color_oak;
       color: $color_white;
+    }
+  }
+
+  @include media-max($bp_gallery_1col) {
+    flex-wrap: wrap;
+    button {
+      flex: 1 1 50%;
+      &:nth-child(1), &:nth-child(2) {
+        border-bottom: 1px solid $color_birch;
+      }
     }
   }
 }
