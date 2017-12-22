@@ -68,6 +68,9 @@
     border-radius: 0;
     + button {
       border-left: 1px solid $color_birch;
+      &.is-checked {
+        border-left: 1px solid $color_oak;
+      }
     }
     &:first-child {
       border-bottom-left-radius: $filter_radius;
@@ -80,6 +83,9 @@
     &.is-checked {
       background: $color_oak;
       color: $color_white;
+      + button {
+        border-left: 1px solid $color_oak;
+      }
     }
   }
 

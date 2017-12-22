@@ -30,3 +30,17 @@ Testimonials:
     wished for a better process.
   customer: Susan MacDonald
   location: Hendersonville, NC
+- 
+  quote: >
+    Two years ago, John began the renovation
+    on our 100 year old cabin in Chimney
+    Rock. The quality of his work,
+    craftsmanship and design ideas for small
+    spaces far exceeded our wildest dreams.
+    His knowledge and use of various types
+    of wood was used throughout the cabin
+    and every detail is perfect. We love his
+    work so much, he is now doing our dream
+    home in Hendersonville.
+  customer: 'Anne & Rodney Brown'
+  location: Chimney Rock, NC

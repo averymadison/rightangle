@@ -1,5 +1,5 @@
       <footer itemscope itemtype="http://schema.org/Person">
-        <h3 class="footer-name"><span itemprop="name"><?php echo $site->name() ?></span>, <span itemprop="jobTitle"><?php echo $site->jobtitle() ?></span></h3>
+        <a class="footer-name" href="<?= page('contact')->url() ?>"><span itemprop="name"><?= $site->name() ?></span>, <span itemprop="jobTitle"><?= $site->jobtitle() ?></span></a>
       </footer>
     </main>
 

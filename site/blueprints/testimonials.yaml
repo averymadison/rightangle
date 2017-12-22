@@ -5,6 +5,7 @@ fields:
   testimonials:
     label: Testimonials
     type: structure
+    flip: true
     fields:
       quote:
         label: Quote

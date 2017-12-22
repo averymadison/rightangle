@@ -3,18 +3,26 @@
 footer {
   text-align: center;
   padding: 2rem 0;
+  margin-top: 1rem;
   color: $color_text_light;
+
   &:before {
     content: '***';
     display: block;
     font-size: 2rem;
     line-height: 1;
-    margin: 2rem;
+    margin-bottom: 0.6rem;
     color: darken($color_birch, 12);
   }
 
   .footer-name {
-    margin: 0;
-    display: none;
+    color: $color_text_light;
+    font-style: italic;
+    transition: background-size 0.1s ease;
+    background: linear-gradient(transparent 62%, $color_white 0%) center center no-repeat;
+    background-size: 100% 0;
+    &:hover {
+      background-size: 100% 100%;
+    }
   }
 }
