@@ -13,9 +13,12 @@ $color_walnut: #9F7E66;
 
 // Sizing
 $nav_width: 140px;
-$button_radius: 20px;
 $gallery_gutter: 6px;
+$button_radius: 3rem;
 
 // Z-indices
+$z_mapbg: 1;
+$z_maptext: 5;
 $z_header: 100;
 $z_filter: 50;
+

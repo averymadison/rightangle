@@ -25,7 +25,9 @@
     }
     &-text {
       padding: 2rem;
-      background: $color_oak;
+      background-color: $color_oak;
+      //background-image: url('../images/woodgrain.svg');
+      //background-repeat: repeat;
     }
   }
 

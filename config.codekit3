@@ -322,6 +322,13 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/images\/map.sketch": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/images\/map.sketch",
+		"oF": 0
+		},
 	"\/assets\/images\/map.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -342,6 +349,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/assets\/images\/woodgrain.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/images\/woodgrain.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/js\/.gitkeep": {
 		"cB": 0,
@@ -384,11 +401,11 @@
 		"oAP": "\/content\/2-process\/default.txt",
 		"oF": 0
 		},
-	"\/content\/3-contact\/default.txt": {
+	"\/content\/3-contact\/contact.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/3-contact\/default.txt",
+		"oAP": "\/content\/3-contact\/contact.txt",
 		"oF": 0
 		},
 	"\/content\/error\/error.txt": {
@@ -6883,11 +6900,25 @@
 		"oAP": "\/site\/config\/config.php",
 		"oF": 0
 		},
+	"\/site\/controllers\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/controllers\/contact.php",
+		"oF": 0
+		},
 	"\/site\/plugins\/.gitkeep": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/plugins\/.gitkeep",
+		"oF": 0
+		},
+	"\/site\/snippets\/contactmail.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/snippets\/contactmail.php",
 		"oF": 0
 		},
 	"\/site\/snippets\/footer.php": {
@@ -6923,6 +6954,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/about.php",
+		"oF": 0
+		},
+	"\/site\/templates\/contact.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/templates\/contact.php",
 		"oF": 0
 		},
 	"\/site\/templates\/default.php": {

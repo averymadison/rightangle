@@ -19,12 +19,12 @@ main {
   height: 100vh;
   overflow-y: scroll;
   position: relative;
+  padding: 0 2rem;
   // Enable elastic scroll
   -webkit-overflow-scrolling: touch;
 }
 
 .wrapper {
-  max-width: 720px;
+  max-width: 640px;
   margin: 0 auto;
-  padding: 0 2rem;
 }

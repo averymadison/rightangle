@@ -1,7 +1,7 @@
 // Nav Sidebar
 
 header {
-  background: $color_white;
+  background-color: $color_white;
   box-shadow: 8px 0 40px rgba(0,0,0,0.02);
   height: 100vh;
   position: fixed;
@@ -13,6 +13,7 @@ header {
   align-items: center;
   justify-content: space-between;
   @extend %font-sans;
+  @extend %unselectable;
 
   .logo {
     width: $nav_width;

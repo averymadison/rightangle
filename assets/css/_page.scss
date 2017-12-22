@@ -21,3 +21,18 @@
     }
   }
 }
+
+.call-to-action {
+  text-align: center;
+  padding: 0.75rem 0;
+  margin: 3rem auto 0;
+  border-top: 1px solid darken($color_birch, 6);
+  border-bottom: 1px solid darken($color_birch, 6);
+  @extend %unselectable;
+  .or {
+    font-style: italic;
+    @include media-max(675px) {
+      display: none;
+    }
+  }
+}

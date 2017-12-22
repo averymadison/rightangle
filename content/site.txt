@@ -22,4 +22,4 @@ Email: john@rightanglewoodworks.com
 
 ----
 
-Copyright: &copy; 2007–(date: year)
+Copyright: &copy; 2003–(date: year)

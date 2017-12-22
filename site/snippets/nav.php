@@ -5,7 +5,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-  <title><?php echo $site->title()->html() ?> | <?php echo $page->title()->html() ?></title>
+  <title>
+    <?php if($page->isHomePage()): ?>
+      <?= $site->title()->html() ?>
+    <?php else: ?>
+      <?= $page->title()->html() ?> &middot; <?= $site->title()->html() ?>
+    <?php endif ?>
+  </title>
 
   <link rel="stylesheet" href="assets/css/main.css">
   <script src="node_modules/imagesloaded/imagesloaded.pkgd.min.js"></script>

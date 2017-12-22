@@ -3,15 +3,18 @@
 footer {
   text-align: center;
   padding: 2rem 0;
+  color: $color_text_light;
   &:before {
-    content: '❦';
+    content: '***';
     display: block;
     font-size: 2rem;
-    margin-bottom: 1rem;
+    line-height: 1;
+    margin: 2rem;
     color: darken($color_birch, 12);
   }
 
   .footer-name {
     margin: 0;
+    display: none;
   }
 }
