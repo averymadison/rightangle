@@ -2,9 +2,9 @@
 
 // Colors
 $color_white: #FFFFFF;
-$color_birch: #FAF9F6;
+$color_birch: #F6F4ED;
 
-$color_text: #3d3834;
+$color_text: #292827;
 $color_text_light: #988779;
 
 $color_cherry: #D35A53;
@@ -13,7 +13,9 @@ $color_walnut: #9F7E66;
 
 // Sizing
 $nav_width: 140px;
-$button_radius: 4px;
+$button_radius: 20px;
+$gallery_gutter: 6px;
 
 // Z-indices
 $z_header: 100;
+$z_filter: 50;

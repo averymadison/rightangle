@@ -21,16 +21,16 @@
     </div>
     <nav>
       <a class="nav-item" href="<?= $site->homePage() ?>">
-        <?= $site->homePage()->title() ?>
+        <span class="nav-text"><?= $site->homePage()->title() ?></span>
       </a>
       <a class="nav-item" href="<?= $pages->find('about')->url() ?>">
-        <?= $pages->find('about')->title() ?>
+        <span class="nav-text"><?= $pages->find('about')->title() ?></span>
       </a>
       <a class="nav-item" href="<?= $pages->find('process')->url() ?>">
-        <?= $pages->find('process')->title() ?>
+        <span class="nav-text"><?= $pages->find('process')->title() ?></span>
       </a>
       <a class="nav-item" href="<?= $pages->find('contact')->url() ?>">
-        <?= $pages->find('contact')->title() ?>
+        <span class="nav-text"><?= $pages->find('contact')->title() ?></span>
       </a>
     </nav>
     <div class="copyright">

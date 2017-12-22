@@ -1,8 +1,23 @@
 // General Page Styles
 
 .page-title {
-  height: 80px;
+  height: $nav_width;
+  padding: 3.5rem 0 1.5rem;
   h1 {
     float: left;
+  }
+}
+
+.page-content {
+  p {
+    margin-bottom: 1.5rem;
+  }
+  a {
+    transition: background-size 0.1s ease;
+    background: linear-gradient(transparent 0%, $color_white 0%) center bottom no-repeat;
+    background-size: 100% 50%;
+    &:hover {
+      background-size: 100% 100%;
+    }
   }
 }

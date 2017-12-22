@@ -3,7 +3,7 @@
 <div class="page-title">
   <h1>Right Angle Woodworks</h1>
   <div class="filter-bar filter-button-group">
-    <button data-filter="*" class="is-checked">Show All</button><button data-filter=".furniture">Custom Furniture</button><button data-filter=".remodel">Remodeling</button>
+    <button data-filter="*" class="is-checked">Show All</button><button data-filter=".furniture">Furniture</button><button data-filter=".remodel">Remodeling</button><button data-filter=".testimonial">Testimonials</button>
   </div>
 </div>
 
@@ -58,5 +58,6 @@
 <script src="node_modules/photoswipe/dist/photoswipe.min.js"></script>
 <script src="node_modules/photoswipe/dist/photoswipe-ui-default.min.js"></script>
 <?php snippet('photoswipe') ?>
+<script src="assets/js/scripts.js"></script>
 
 <?php snippet('footer') ?>

@@ -1,8 +1,8 @@
 // Nav Sidebar
 
 header {
-  background: $color_text;
-  box-shadow: 12px 0 32px rgba(0,0,0,0.03);
+  background: $color_white;
+  box-shadow: 8px 0 40px rgba(0,0,0,0.02);
   height: 100vh;
   position: fixed;
   left: 0;
@@ -12,6 +12,7 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  @extend %font-sans;
 
   .logo {
     width: $nav_width;
@@ -19,23 +20,24 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-
-    a {
-      padding: 12px;
-      border-radius: 4px;
-      &:hover {
-        background: $color_birch;
-      }
-    }
   }
 
   nav {
     .nav-item {
-      width: 100%;
+      width: $nav_width;
       display: block;
       text-align: center;
-      line-height: 2;
-      color: $color_birch;
+      line-height: 2.5rem;
+      font-weight: 500;
+      position: relative;
+      .nav-text {
+        transition: background-size 0.1s ease;
+        background: linear-gradient(transparent 62%, $color_birch 0%) center center no-repeat;
+        background-size: 100% 0;
+        &:hover {
+          background-size: 100% 100%;
+        }
+      }
     }
   }
 

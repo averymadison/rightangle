@@ -4,7 +4,7 @@ html { box-sizing: border-box; }
 *, *:before, *:after { box-sizing: inherit; }
 
 body {
-  background: $color_birch;
+  background-color: $color_birch;
   color: $color_text;
   width: 100vw;
   height: 100vh;
@@ -12,10 +12,19 @@ body {
 }
 
 main {
+  background-image: url('../images/bg.png');
+  background-repeat: repeat;
+  background-size: 300px;
+  background-attachment: local;
   height: 100vh;
-  padding: 2rem;
   overflow-y: scroll;
   position: relative;
   // Enable elastic scroll
   -webkit-overflow-scrolling: touch;
+}
+
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }

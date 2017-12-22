@@ -56,6 +56,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/_map.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_map.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/_nav.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -246,11 +259,57 @@
 		"oAP": "\/assets\/fonts\/fontin_sans_italic.woff2",
 		"oF": 0
 		},
+	"\/assets\/fonts\/work_sans_medium.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/work_sans_medium.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/work_sans_medium.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/work_sans_medium.woff2",
+		"oF": 0
+		},
+	"\/assets\/fonts\/work_sans_regular.woff": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/work_sans_regular.woff",
+		"oF": 0
+		},
+	"\/assets\/fonts\/work_sans_regular.woff2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/fonts\/work_sans_regular.woff2",
+		"oF": 0
+		},
 	"\/assets\/images\/.gitkeep": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/images\/.gitkeep",
+		"oF": 0
+		},
+	"\/assets\/images\/bg.png": {
+		"ft": 32768,
+		"iS": 49152,
+		"oA": 1,
+		"oAP": "\/assets\/images\/bg.png",
+		"oF": 1,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/bg.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/images\/bg.psd",
 		"oF": 0
 		},
 	"\/assets\/images\/logo.svg": {
@@ -262,6 +321,27 @@
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/assets\/images\/map.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "\/assets\/images\/map.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/assets\/images\/topographic.png": {
+		"ft": 32768,
+		"iS": 198293,
+		"oA": 0,
+		"oAP": "\/assets\/images\/topographic.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/js\/.gitkeep": {
 		"cB": 0,
@@ -290,11 +370,11 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/content\/1-about\/default.txt": {
+	"\/content\/1-about\/about.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/1-about\/default.txt",
+		"oAP": "\/content\/1-about\/about.txt",
 		"oF": 0
 		},
 	"\/content\/2-process\/default.txt": {
@@ -6748,6 +6828,13 @@
 		"oAP": "\/site\/accounts\/john.php",
 		"oF": 0
 		},
+	"\/site\/blueprints\/about.yaml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/blueprints\/about.yaml",
+		"oF": 0
+		},
 	"\/site\/blueprints\/default.yaml": {
 		"cB": 0,
 		"ft": 8192,
@@ -6810,6 +6897,13 @@
 		"oAP": "\/site\/snippets\/footer.php",
 		"oF": 0
 		},
+	"\/site\/snippets\/map.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/snippets\/map.php",
+		"oF": 0
+		},
 	"\/site\/snippets\/nav.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -6824,6 +6918,13 @@
 		"oAP": "\/site\/snippets\/photoswipe.php",
 		"oF": 0
 		},
+	"\/site\/templates\/about.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/templates\/about.php",
+		"oF": 0
+		},
 	"\/site\/templates\/default.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -6836,13 +6937,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/home.php",
-		"oF": 0
-		},
-	"\/site\/templates\/projects.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/site\/templates\/projects.php",
 		"oF": 0
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/bldeck-1-400x300.jpg": {

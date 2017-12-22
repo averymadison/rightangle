@@ -1,0 +1,67 @@
+.map-container {
+  height: 600px;
+  width: 100%;
+  position: relative;
+  margin: 2rem 0 4rem;
+}
+
+.map {
+  background: url('../images/map.svg') no-repeat top right;
+  width: 914px;
+  height: 565px;
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  dl {
+    position: absolute;
+    right: 0;
+    background: $color_white;
+    box-shadow: 0 16px 24px -8px rgba(0,0,0,0.05);
+    padding: 1rem 1.2rem;
+    border-radius: 8px;
+    font-size: 16px;
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      background-color: $color_white;
+      width: 24px;
+      height: 24px;
+      transform: rotate(45deg);
+      border-radius: 4px;
+    }
+  }
+
+  dt {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin-bottom: .5em;
+  }
+
+  dd {
+    font-size: 0.9em;
+    margin: 0;
+  }
+}
+
+dl.north-carolina {
+  width: 220px;
+  bottom: 250px;
+  right: 100px;
+  &:after {
+    left: calc(50% - 12px);
+    bottom: -8px;
+  }
+}
+
+dl.florida {
+  width: 220px;
+  bottom: -40px;
+  right: 200px;
+  &:after {
+    right: -8px;
+    top: calc(50% - 12px);
+  }
+}

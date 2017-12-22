@@ -1,0 +1,13 @@
+title: About
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  background:
+    label: Background
+    type:  textarea
+  beliefs:
+    label: Beliefs
+    type:  textarea
