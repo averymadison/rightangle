@@ -377,25 +377,32 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"\/content\/1-about\/about.txt": {
+	"\/content\/1-home\/home.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/1-about\/about.txt",
+		"oAP": "\/content\/1-home\/home.txt",
 		"oF": 0
 		},
-	"\/content\/2-process\/default.txt": {
+	"\/content\/2-about\/about.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/2-process\/default.txt",
+		"oAP": "\/content\/2-about\/about.txt",
 		"oF": 0
 		},
-	"\/content\/3-contact\/contact.txt": {
+	"\/content\/3-process\/default.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/3-contact\/contact.txt",
+		"oAP": "\/content\/3-process\/default.txt",
+		"oF": 0
+		},
+	"\/content\/4-contact\/contact.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/4-contact\/contact.txt",
 		"oF": 0
 		},
 	"\/content\/error\/error.txt": {
@@ -403,13 +410,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/content\/error\/error.txt",
-		"oF": 0
-		},
-	"\/content\/home\/home.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/content\/home\/home.txt",
 		"oF": 0
 		},
 	"\/content\/projects\/1-black-locust-covered-deck\/bldeck-1.jpg": {

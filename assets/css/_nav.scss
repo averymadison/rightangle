@@ -24,6 +24,9 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    &:active {
+      opacity: 0.8;
+    }
   }
 
   nav {

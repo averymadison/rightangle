@@ -25,20 +25,18 @@
         <img src="assets/images/logo.svg" alt="<?= $site->title() ?>">
       </a>
     </div>
-    <nav>
-      <a class="nav-item" href="<?= $site->homePage() ?>">
-        <span class="nav-text"><?= $site->homePage()->title() ?></span>
-      </a>
-      <a class="nav-item" href="<?= $pages->find('about')->url() ?>">
-        <span class="nav-text"><?= $pages->find('about')->title() ?></span>
-      </a>
-      <a class="nav-item" href="<?= $pages->find('process')->url() ?>">
-        <span class="nav-text"><?= $pages->find('process')->title() ?></span>
-      </a>
-      <a class="nav-item" href="<?= $pages->find('contact')->url() ?>">
-        <span class="nav-text"><?= $pages->find('contact')->title() ?></span>
-      </a>
-    </nav>
+    <?php
+      $items = $pages->visible();
+      if($items->count()):
+      ?>
+      <nav>
+        <?php foreach($items as $item): ?>
+          <a class="nav-item <?php e($item->isOpen(), 'active') ?>" href="<?php echo $item->url() ?>">
+            <span class="nav-text"><?php echo $item->title()->html() ?></span>
+          </a>
+        <?php endforeach ?>
+      </nav>
+    <?php endif; ?>
     <div class="copyright">
       <?= $site->copyright()->kirbytext() ?>
     </div>
