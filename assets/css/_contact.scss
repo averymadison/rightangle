@@ -1,5 +1,35 @@
 // Contact
 
+.contact-info {
+  display: flex;
+  align-items: stretch;
+  border-top: 1px solid $color_border;
+  border-bottom: 1px solid $color_border;
+  margin: 2rem auto;
+  text-align: center;
+
+  > * {
+    padding: 2rem;
+    flex: 1;
+  }
+
+  > *:first-child {
+    border-right: 1px solid $color_border;
+  }
+
+  .contact-label {
+    color: $color_text_light;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+
+  .contact-link {
+    font-size: 1.4rem;
+  }
+}
 
 .contact-form {
 
@@ -31,21 +61,17 @@
     input, textarea {
       // Space for label
       padding-top: 40px;
-      border-radius: 1px;
-      &:focus {
-        outline: 3px solid $color_oak;
-      }
     }
 
     label {
       position: absolute;
       top: 0;
       left: 0;
-      padding: 0.6rem;
+      padding: 0.7rem 0.8rem 0.5rem;
       height: 40px;
       padding-bottom: 0;
-      text-transform: uppercase;
-      letter-spacing: 1px;
+      //text-transform: uppercase;
+      //letter-spacing: 1px;
       font-size: 14px;
       font-weight: 500;
       cursor: text;
@@ -55,8 +81,33 @@
 
     textarea {
       resize: vertical;
+      min-height: 200px;
     }
   }
+
+  .form-submit {
+    text-align: center;
+  }
+}
+
+// Custom Uniform styles
+.form-messages {
+  margin-bottom: $form_gutter;
+}
+
+.form-success {
+  background-color: $color_evergreen;
+  border-radius: 1px;
+  padding: 0.4rem 0.6rem;
+  color: $color_white;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  @extend %font-sans;
+}
+
+.uniform-errors__item {
+  @extend .form-success;
+  background-color: $color_cherry;
 }
 
 // Required by Uniform plugin

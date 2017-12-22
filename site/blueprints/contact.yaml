@@ -1,0 +1,25 @@
+title: Contact
+pages: false
+files: false
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type:  textarea
+  name_placeholder:
+    label: Name Placeholder
+    type:  text
+    width: 1/2
+  email_placeholder:
+    label: Email Placeholder
+    type:  text
+    width: 1/2
+  message_placeholder:
+    label: Message Placeholder
+    type:  textarea
+  success:
+    label: Email Success Message
+    type:  text
+

@@ -6855,6 +6855,13 @@
 		"oAP": "\/site\/blueprints\/about.yaml",
 		"oF": 0
 		},
+	"\/site\/blueprints\/contact.yaml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/blueprints\/contact.yaml",
+		"oF": 0
+		},
 	"\/site\/blueprints\/default.yaml": {
 		"cB": 0,
 		"ft": 8192,
@@ -6881,6 +6888,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/projects.yaml",
+		"oF": 0
+		},
+	"\/site\/blueprints\/site.yaml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/blueprints\/site.yaml",
 		"oF": 0
 		},
 	"\/site\/blueprints\/testimonials.yaml": {

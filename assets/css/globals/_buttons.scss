@@ -1,4 +1,4 @@
-button, a.button {
+button, a.button, input[type=submit] {
   @extend %font-sans;
   text-transform: capitalize;
   background: rgba($color_white, 0.9);
@@ -24,6 +24,10 @@ button, a.button {
     opacity: 0.8;
     box-shadow: 0 2px 4px -2px rgba(0,0,0,0.03);
   }
+  &.primary {
+    background: $color_oak;
+    color: $color_white;
+  }
 }
 
 input[type=text], input[type=email], textarea {
@@ -33,5 +37,18 @@ input[type=text], input[type=email], textarea {
   background-position: top;
   background-repeat: repeat;
   border: none;
-  padding: 0.6rem;
+  border-radius: 1px;
+  padding: 0.6rem 0.8rem 0.8rem;
+  transition: box-shadow 0.1s ease;
+  &:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px $color_oak;
+  }
+  &.error {
+    box-shadow: 0 0 0 3px $color_cherry;
+  }
+}
+
+::placeholder {
+  color: darken($color_birch, 12);
 }

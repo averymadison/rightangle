@@ -2,4 +2,24 @@ Title: Process
 
 ----
 
-Text: Coming soon!
+Text: 
+
+Coming soon!
+
+Bugs:
+
+- Contact form input box shadow
+- Lightbox styling
+- Need favicon
+
+Testing:
+
+- Mobile
+- Windows
+- Firefox, Safari
+- Google Page Speed
+- W3C Validator
+
+Misc:
+
+- Edit images
