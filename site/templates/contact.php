@@ -52,7 +52,7 @@
       <?php echo honeypot_field() ?>
 
       <div class="form-submit">
-        <input type="submit" class="button primary" value="Submit">
+        <input type="submit" class="button primary" value="Send Message">
       </div>
     </form>
   </div>

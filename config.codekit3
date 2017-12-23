@@ -307,6 +307,16 @@
 		"oAP": "\/assets\/images\/.gitkeep",
 		"oF": 0
 		},
+	"\/assets\/images\/100_4624.jpg": {
+		"ft": 16384,
+		"iS": 837811,
+		"oA": 0,
+		"oAP": "\/assets\/images\/100_4624.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/images\/bg-white.png": {
 		"ft": 32768,
 		"iS": 61440,
@@ -573,7 +583,7 @@
 		"oAP": "\/content\/projects\/4-butternut-table\/100_4624.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/4-butternut-table\/100_4625.JPG": {
@@ -583,7 +593,7 @@
 		"oAP": "\/content\/projects\/4-butternut-table\/100_4625.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/4-butternut-table\/100_4628.JPG": {
@@ -9087,7 +9097,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/100_4624-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/100_4624-400x300.jpg": {
@@ -9107,7 +9117,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/100_4624-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/100_4624-75x75.jpg": {
@@ -9137,7 +9147,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/100_4625-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/100_4625-400x300.jpg": {
@@ -9157,7 +9167,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/100_4625-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/100_4625-75x75.jpg": {

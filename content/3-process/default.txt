@@ -11,6 +11,8 @@ Bugs:
 - Contact form input box shadow
 - Lightbox styling
 - Need favicon
+- Filter bar border color responsive
+- Filter bar wrapping single col
 
 Testing:
 
@@ -23,3 +25,6 @@ Testing:
 Misc:
 
 - Edit images
+- Rewrite introduction
+- Edit bio and add pic
+- Create Process page
