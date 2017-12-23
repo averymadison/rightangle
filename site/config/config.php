@@ -30,17 +30,3 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 */
 
 c::set('debug', true);
-
-/*
-
----------------------------------------
-Autopublisher
----------------------------------------
-
-https://github.com/groenewege/kirby-auto-publish
-
-Automatically make /projects subpages visible.
-
-*/
-
-c::set('autopublish.templates', 'project');
