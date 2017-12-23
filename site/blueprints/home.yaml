@@ -10,3 +10,4 @@ fields:
   intro:
     label: Introduction
     type:  textarea
+    help:  This text appears at the top of the homepage, inline with the photo gallery.

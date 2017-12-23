@@ -16,16 +16,19 @@ fields:
         type:  textarea
         required: true
         icon: quote-right
-        placeholder: John is the best!!!!!
+        placeholder: John is the best!
+        help: Keep testimonials between 1-3 sentences. Long testimonials can be broken up into multiple entries. Quotation marks will be added automatically; do not include them in the text.
       customer:
         label: Customer
         type:  text
         required: true
         icon: user
         placeholder: Meg Decker
+        help: If the testimonial comes from two people, use an ampersand (&) to link their names.
       location:
         label: Location
         type:  text
         required: true
         icon: map-marker
         placeholder: Hendersonville, NC
+        help: The format is [city], [state abbreviation].

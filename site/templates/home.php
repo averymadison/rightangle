@@ -24,8 +24,10 @@
     $testimonials = page('testimonials')->testimonials();
     $numTestimonials = $testimonials->toStructure()->count();
 
-    $pages = page('projects')->children()->flip();
-    foreach ($pages as $page): ?>
+    $pages = page('projects')->children()->visible()->flip();
+  ?>
+
+  <?php foreach ($pages as $page): ?>
 
     <?php
       $images = $page->files()->filterBy('type', 'image');
@@ -68,8 +70,6 @@
     ?>
 
   <?php endforeach; ?>
-
-
 </div>
 
 <!-- Load Isotope and Photoswipe -->

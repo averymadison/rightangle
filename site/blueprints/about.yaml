@@ -12,6 +12,8 @@ fields:
   background:
     label: Background
     type:  textarea
+    help:  This displays above the map.
   beliefs:
     label: Beliefs
     type:  textarea
+    help:  This displays below the map.

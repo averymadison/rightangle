@@ -24,9 +24,10 @@ Testing:
 
 Misc:
 
-- Edit images
 - Rewrite introduction
 - Edit bio and add pic
 - Create Process page
 - Redirect /testimonials to /
 - Redirect /projects to /
+- Submit website to Isotope, Photoswipe
+- Create error page

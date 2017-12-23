@@ -19,7 +19,7 @@
 
 </head>
 <body>
-  <header>
+  <header id="nav">
     <div class="logo">
       <a href="<?= $site->homePage() ?>">
         <img src="assets/images/logo.svg" alt="<?= $site->title() ?>">
