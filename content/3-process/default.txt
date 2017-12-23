@@ -28,3 +28,5 @@ Misc:
 - Rewrite introduction
 - Edit bio and add pic
 - Create Process page
+- Redirect /testimonials to /
+- Redirect /projects to /

@@ -1,6 +1,8 @@
 title: Home
 pages: false
 files: true
+options:
+  status: false
 fields:
   title:
     label: Title

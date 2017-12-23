@@ -1,6 +1,10 @@
 title: Contact
 pages: false
 files: false
+options:
+  status: false
+  url: false
+  delete: false
 fields:
   title:
     label: Title

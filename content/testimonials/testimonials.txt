@@ -44,3 +44,11 @@ Testimonials:
     home in Hendersonville.
   customer: 'Anne & Rodney Brown'
   location: Chimney Rock, NC
+- 
+  quote: "John Decker has done both large and small projects for us. He rebuilt our deck which was included the difficult task of stabilizing it on a steep slope. Recently he did remodel of our family room that included new oak paneling and trim that he designed and built. From planning to completion John's attention to detail along with a very high level of craftsmanship makes working with him a breeze."
+  customer: 'Alyce & Mark Eisenhauer'
+  location: Pisgah Forest, NC
+- 
+  quote: "The size of the project makes no difference, his finished product is always superior and our house was cleaner than when he began. We won't work with anyone else!"
+  customer: 'Alyce & Mark Eisenhauer'
+  location: Pisgah Forest, NC

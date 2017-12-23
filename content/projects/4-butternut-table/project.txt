@@ -1,8 +1,8 @@
-Title: Butternut Table
+Title: Butternut / Walnut Sofa Table
 
 ----
 
-Text:
+Text: 
 
 ----
 
@@ -10,4 +10,4 @@ Category: furniture
 
 ----
 
-Woods: butternut
+Woods: butternut,walnut

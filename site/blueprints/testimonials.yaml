@@ -1,6 +1,10 @@
 title: Testimonials
 pages: false
 files: false
+options:
+  status: false
+  url: false
+  delete: false
 fields:
   testimonials:
     label: Testimonials
