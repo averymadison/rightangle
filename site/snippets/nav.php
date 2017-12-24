@@ -21,7 +21,7 @@
 <body>
   <header id="nav">
     <div class="logo">
-      <a href="<?= $site->homePage() ?>">
+      <a href="<?= page('home')->url() ?>">
         <img src="assets/images/logo.svg" alt="<?= $site->title() ?>">
       </a>
     </div>

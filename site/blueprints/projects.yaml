@@ -6,3 +6,22 @@ options:
   status: false
   url: false
   delete: false
+fields:
+  projects_headline:
+    label: Managing Project Photos
+    type:  headline
+  info_add:
+    label: How to add photos
+    type:  info
+    text:  >
+      To add new photos, click the "add" button in the sidebar on the left. Give the page a title. On the newly generated page, find the "files" section in the sidebar on the left, and click the "add" button. Photos added here will display on the homepage.
+  info_rearrange:
+    label: How to rearrange projects
+    type:  info
+    text: >
+      Projects can be rearranged by clicking the "edit" button on the left and dragging entries up and down. The entry at the bottom (newest added) will appear at the top of the homepage. (The list gets reversed: whatever is #1 on the list here will appear last on the homepage, or visa versa.)
+  info_not_showing:
+    label: Why aren't my photos showing up on the homepage?
+    type:  info
+    text:  >
+      Make sure that the page is set to "visible". If you click into the project page, there is a toggle in the sidebar which will show whether the page is visible or invisible. You can also manage visiblility using the "edit" button on the left and dragging projects between the two columns.
