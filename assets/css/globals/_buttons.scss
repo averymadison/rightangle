@@ -1,20 +1,21 @@
 button, a.button, input[type=submit] {
   @extend %font-sans;
   text-transform: capitalize;
-  background: rgba($color_white, 0.9);
+  background-color: rgba($color_white, 0.8);
   border: none;
   box-shadow: 0 4px 8px -4px rgba(0,0,0,0.03);
   border-radius: $button_radius;
   cursor: pointer;
   padding: 0.75rem 1.5rem;
-  color: $color_text;
+  color: lighten($color_text, 10);
   margin: 8px;
-  font-weight: 500;
+  font-size: 1rem;
+  font-weight: 600;
   display: inline-block;
   line-height: 1.1;
   &:hover {
-    color: $color_oak;
-    background: $color_white;
+    color: $color_text;
+    background-color: $color_white;
     box-shadow: 0 8px 16px -8px rgba(0,0,0,0.05);
   }
   &:focus {

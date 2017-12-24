@@ -9,10 +9,11 @@ Coming soon!
 Bugs:
 
 - Contact form input box shadow
-- Lightbox styling
 - Need favicon
 - Filter bar border color responsive
 - Filter bar wrapping single col
+- Svg map state borders
+- Sticky.js
 
 Testing:
 
@@ -31,4 +32,4 @@ Misc:
 - Redirect /projects to /
 - Submit website to Isotope, Photoswipe
 - Create error page
-- Write readme
+- Buy Kirby license

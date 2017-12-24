@@ -72,11 +72,9 @@ var initPhotoSwipeFromDOM = function (gallerySelector) {
 
       figureEl = thumbElements[i]; // <figure> element
 
-      console.log("loop entered");
       // include only elements of the FIGURE name
       if(figureEl.nodeName !== 'FIGURE') {
         continue;
-        console.log("continued!");
       }
 
       linkEl = figureEl.children[0]; // <a> element
@@ -261,3 +259,9 @@ initPhotoSwipeFromDOM('.photoswipe');
 // ======================================================
 // End Photoswipe
 // ======================================================
+
+// ======================================================
+// Sticky.js
+// ======================================================
+
+var sticky = new Sticky('.sticky');

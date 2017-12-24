@@ -32,6 +32,8 @@
 }
 
 .contact-form {
+  border-bottom: 1px solid $color_border;
+  padding-bottom: $form_gutter;
 
   .form-group-row {
     display: flex;
@@ -73,7 +75,7 @@
       //text-transform: uppercase;
       //letter-spacing: 1px;
       font-size: 14px;
-      font-weight: 500;
+      font-weight: 600;
       cursor: text;
       color: $color_text_light;
       @extend %font-sans;
@@ -87,6 +89,9 @@
 
   .form-submit {
     text-align: center;
+    button {
+      margin: 0 auto;
+    }
   }
 }
 

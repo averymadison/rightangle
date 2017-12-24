@@ -69,7 +69,7 @@
     + button {
       border-left: 1px solid $color_birch;
       &.is-checked {
-        border-left: 1px solid $color_oak;
+        border-left: 1px solid $color_text;
       }
     }
     &:first-child {
@@ -81,10 +81,10 @@
       border-top-right-radius: $filter_radius;
     }
     &.is-checked {
-      background: $color_oak;
+      background: $color_text;
       color: $color_white;
       + button {
-        border-left: 1px solid $color_oak;
+        border-left: 1px solid $color_text;
       }
     }
   }
@@ -97,5 +97,27 @@
         border-bottom: 1px solid $color_birch;
       }
     }
+  }
+}
+
+// Lightbox Overrides
+.pswp {
+  @extend %font-sans;
+  .pswp__top-bar {
+    button, button:hover {
+      background-color: transparent;
+      box-shadow: none;
+      border-radius: none;
+    }
+  }
+
+  .pswp__button--arrow--left, .pswp__button--arrow--right {
+    &:before {
+      border-radius: 50%;
+    }
+  }
+
+  .pswp__caption__center {
+    text-align: center;
   }
 }

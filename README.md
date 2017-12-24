@@ -11,4 +11,4 @@ It was designed and coded by Kyle Decker, his son.
 This site was built using [Kirby](http://getkirby.com/).
 It uses [Photoswipe](http://photoswipe.com/) for the lightbox and [Isotope](https://isotope.metafizzy.co/) for filtering and the masonry layout.
 
-The fonts used are [Fontin Sans](https://www.exljbris.com/fontinsans.html) and [Work Sans](https://fonts.google.com/specimen/Work+Sans).
+Text is set in [Tablet Gothic Wide](https://typekit.com/fonts/tablet-gothic) and [SchoolBook](https://typekit.com/fonts/schoolbook), served from Typekit.
