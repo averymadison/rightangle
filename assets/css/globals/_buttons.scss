@@ -26,8 +26,11 @@ button, a.button, input[type=submit] {
     box-shadow: 0 2px 4px -2px rgba(0,0,0,0.03);
   }
   &.primary {
-    background: $color_oak;
+    background-color: $color_oak;
     color: $color_white;
+    &:hover {
+      background-color: saturate(lighten($color_oak, 3), 5);
+    }
   }
 }
 

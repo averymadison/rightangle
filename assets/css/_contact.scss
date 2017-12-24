@@ -18,12 +18,13 @@
   }
 
   .contact-label {
-    color: $color_text_light;
+    @extend %font-sans;
     margin: 0;
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-weight: bold;
+    font-weight: 600;
     font-size: 1rem;
+    margin-bottom: 0.2rem;
   }
 
   .contact-link {
