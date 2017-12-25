@@ -58,8 +58,40 @@
       margin: 0;
     }
   }
+
+  @include media-max($bp_mobile) {
+    width: 100vw;
+    height: $nav_mobile_height;
+    top: auto;
+    bottom: 0;
+    box-shadow: 0 -8px 40px rgba(0,0,0,0.02);
+
+    .logo {
+      display: none;
+    }
+    .copyright {
+      display: none;
+    }
+
+    nav {
+      width: 100vw;
+      display: flex;
+      padding: 0 1rem;
+      justify-content: space-between;
+      .nav-item {
+        font-size: 14px;
+        width: auto;
+        padding: 0 1rem;
+        line-height: $nav_mobile_height;
+      }
+    }
+  }
 }
 
 main {
   margin-left: $nav_width;
+  @include media-max($bp_mobile) {
+    margin-left: 0;
+    height: calc(100vh - #{$nav_mobile_height});
+  }
 }

@@ -16,6 +16,7 @@ $color_border: darken($color_birch, 10);
 
 // Sizing
 $nav_width: 140px;
+$nav_mobile_height: 54px;
 $gallery_gutter: 6px;
 $button_radius: 3rem;
 $filter_radius: 2px;
@@ -30,3 +31,4 @@ $z_filter: 50;
 // Breakpoints
 $bp_gallery_2col: 1160px;
 $bp_gallery_1col: 760px;
+$bp_mobile: 530px;

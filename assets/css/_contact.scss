@@ -29,6 +29,17 @@
 
   .contact-link {
     font-size: 1.4rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+  }
+
+  @include media-max(880px) {
+    flex-direction: column;
+    > *:first-child {
+      border-right: 0;
+      border-bottom: 1px solid $color_border;
+    }
   }
 }
 

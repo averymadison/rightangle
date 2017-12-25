@@ -22,6 +22,9 @@ main {
   padding: 0 2rem;
   // Enable elastic scroll
   -webkit-overflow-scrolling: touch;
+  @include media-max($bp_mobile) {
+    padding: 0 1rem;
+  }
 }
 
 .wrapper {
