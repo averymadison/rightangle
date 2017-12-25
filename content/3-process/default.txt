@@ -2,34 +2,4 @@ Title: Process
 
 ----
 
-Text: 
-
-Coming soon!
-
-Bugs:
-
-- Contact form input box shadow
-- Need favicon
-- Filter bar border color responsive
-- Filter bar wrapping single col
-- Sticky.js
-- Nav hiding mobile
-
-Testing:
-
-- Mobile
-- Windows
-- Firefox, Safari
-- Google Page Speed
-- W3C Validator
-
-To-do:
-
-- Submit website to Isotope, Photoswipe, Kirby
-
-To-do with dad:
-
-- Refine introduction
-- Edit bio and add pic - new headshot
-- Create Process page
-- Announce new site to people who responded, share online (FB, IG, Dribbble, etc.)
+Text: Coming soon!
