@@ -19,3 +19,7 @@ My background prepared me to execute complex projects on time and on budget. (li
 I construct all of my furniture from non-endangered wood where natural reforestation outpaces harvesting.
 
 If you're interested in custom furniture or remodeling, send me an email or give me a call. Quotes are always free.
+
+----
+
+Footnotes: This website was designed and coded by (link: http://kyledecker.me/ text: Kyle Decker). Source code is freely available on (link: https://github.com/kdeckr/rightangle text: Github).

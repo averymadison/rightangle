@@ -20,6 +20,10 @@
     <span class="or">or</span>
     <a href="<?= page('process')->url() ?>" class="button">Learn about my process</a>
   </div>
+
+  <div class="page-content footnotes">
+    <?php echo $page->footnotes()->kirbytext() ?>
+  </div>
 </div>
 
 <?php snippet('footer') ?>

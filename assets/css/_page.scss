@@ -19,6 +19,14 @@
       background-size: 100% 100%;
     }
   }
+  &.footnotes {
+    margin-top: 3rem;
+    p {
+      @extend %font-sans;
+      text-align: center;
+      font-size: 0.9rem;
+    }
+  }
 }
 
 .call-to-action {

@@ -17,3 +17,6 @@ fields:
     label: Beliefs
     type:  textarea
     help:  This displays below the map.
+  footnotes:
+    label: Footnotes
+    type:  textarea
