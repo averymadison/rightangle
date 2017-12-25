@@ -19,6 +19,4 @@ http://getkirby.com/docs/advanced/options
 
 */
 
-c::set('debug', true);
-
 c::set('smartypants', true);
