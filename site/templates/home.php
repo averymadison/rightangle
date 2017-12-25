@@ -4,6 +4,9 @@
   <h1>Right Angle Woodworks</h1>
 </div>
 
+<script src="node_modules/imagesloaded/imagesloaded.pkgd.min.js"></script>
+<script src="node_modules/isotope-layout/dist/isotope.pkgd.min.js"></script>
+
 <div class="gallery-container" data-sticky-container>
 
   <div class="gallery-controls wrapper sticky" data-sticky-class="is-sticky">

@@ -23,8 +23,6 @@
   </script>
 
   <link rel="stylesheet" href="assets/css/main.css">
-  <script src="node_modules/imagesloaded/imagesloaded.pkgd.min.js"></script>
-  <script src="node_modules/isotope-layout/dist/isotope.pkgd.min.js"></script>
 
 </head>
 <body>
