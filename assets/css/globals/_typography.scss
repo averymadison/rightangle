@@ -21,6 +21,9 @@ body {
   font-weight: regular;
   font-size: 15px;
   line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
   @extend %font-serif;
   @include media-min(400px) { font-size: 16px; }
   @include media-min(500px) { font-size: 17px; }

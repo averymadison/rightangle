@@ -5,7 +5,16 @@ Title: Testimonials
 Testimonials: 
 
 - 
-  quote: "When John is doing work for us, we can give him full access to the house while we vacation many miles away. There are so many great things that we can say about John and his work—however, the nicest part is always knowing that when John is doing a job, we don't have to worry about the process or the results. We know that we are going to be happy."
+  quote: >
+    When John is doing work for us, we can
+    give him full access to the house while
+    we vacation many miles away. There are
+    so many great things that we can say
+    about John and his work—however, the
+    nicest part is always knowing that when
+    John is doing a job, we don’t have to
+    worry about the process or the results.
+    We know that we are going to be happy.
   customer: 'Linda Hoyle & Ron Callahan'
   location: Hendersonville, NC
 - 
@@ -18,7 +27,7 @@ Testimonials:
   customer: Kay Reark
   location: Sebring, FL
 - 
-  quote: "It is always a pleasure having John do work for us. We have used some other contractors who did a great job, but not the way John does a great job. John is our favorite because he goes beyond what is required: he fixes things that he finds that are broken and often cleans up others' messes."
+  quote: 'It is always a pleasure having John do work for us. We have used some other contractors who did a great job, but not the way John does a great job. John is our favorite because he goes beyond what is required: he fixes things that he finds that are broken and often cleans up others’ messes.'
   customer: 'Linda Hoyle & Ron Callahan'
   location: Hendersonville, NC
 - 
@@ -52,3 +61,21 @@ Testimonials:
   quote: "The size of the project makes no difference, his finished product is always superior and our house was cleaner than when he began. We won't work with anyone else!"
   customer: 'Alyce & Mark Eisenhauer'
   location: Pisgah Forest, NC
+- 
+  quote: |
+    I had a house fire which caused structural, electric, water and smoke damage. John and his crew, Adam and Alan, were awesome. I was given thorough and accurate written estimates. They were always prompt,
+    efficient and hardworking. They cleaned up nightly, so I wasn't living in a mess. I am extremely pleased with everything. No surprises—just high quality work!
+  customer: Joan Wagner
+  location: Lebanon, TN
+- 
+  quote: >
+    John remodeled two different homes for
+    me and I could not be happier with the
+    jobs he has done. He listened to my
+    needs and desires and came up with plans
+    that were exactly what I had in mind. He
+    is very conscientious with the quality
+    of his work, easy to be around and
+    extremely neat. A joy to work with.
+  customer: Linda England
+  location: Hendersonville, NC

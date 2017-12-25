@@ -43,6 +43,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/_error.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/_error.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/_footer.scss": {
 		"aP": 1,
 		"bl": 1,
@@ -209,113 +222,12 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"\/assets\/fonts\/.gitkeep": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/.gitkeep",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans_bold.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans_bold.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans_bold.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans_bold.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans_bold_italic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans_bold_italic.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans_bold_italic.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans_bold_italic.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans_italic.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans_italic.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/fontin_sans_italic.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/fontin_sans_italic.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/work_sans_medium.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/work_sans_medium.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/work_sans_medium.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/work_sans_medium.woff2",
-		"oF": 0
-		},
-	"\/assets\/fonts\/work_sans_regular.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/work_sans_regular.woff",
-		"oF": 0
-		},
-	"\/assets\/fonts\/work_sans_regular.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/fonts\/work_sans_regular.woff2",
-		"oF": 0
-		},
 	"\/assets\/images\/.gitkeep": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/images\/.gitkeep",
 		"oF": 0
-		},
-	"\/assets\/images\/100_4624.jpg": {
-		"ft": 16384,
-		"iS": 837811,
-		"oA": 0,
-		"oAP": "\/assets\/images\/100_4624.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/assets\/images\/bg-white.png": {
 		"ft": 32768,
@@ -331,20 +243,13 @@
 	"\/assets\/images\/bg.png": {
 		"ft": 32768,
 		"iS": 49152,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "\/assets\/images\/bg.png",
 		"oF": 1,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"\/assets\/images\/bg.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/images\/bg.psd",
-		"oF": 0
 		},
 	"\/assets\/images\/logo.svg": {
 		"ft": 2097152,
@@ -355,13 +260,6 @@
 		"opt": 1,
 		"plM": 3758088159,
 		"prP": 0
-		},
-	"\/assets\/images\/map.sketch": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/images\/map.sketch",
-		"oF": 0
 		},
 	"\/assets\/images\/map.svg": {
 		"ft": 2097152,
@@ -443,61 +341,91 @@
 		"oAP": "\/content\/error\/error.txt",
 		"oF": 0
 		},
-	"\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-1.jpg": {
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-1.jpg": {
 		"ft": 16384,
-		"iS": 7290145,
+		"iS": 5624593,
 		"oA": 0,
-		"oAP": "\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-1.jpg",
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-2.jpg": {
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-2.jpg": {
 		"ft": 16384,
-		"iS": 8017508,
+		"iS": 5305338,
 		"oA": 0,
-		"oAP": "\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-2.jpg",
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-3.jpg": {
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-3.jpg": {
 		"ft": 16384,
-		"iS": 4933096,
+		"iS": 5878863,
 		"oA": 0,
-		"oAP": "\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-3.jpg",
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-4.jpg": {
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-4.jpg": {
 		"ft": 16384,
-		"iS": 10251342,
+		"iS": 8084138,
 		"oA": 0,
-		"oAP": "\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-4.jpg",
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-5.jpg": {
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-5.jpg": {
 		"ft": 16384,
-		"iS": 8190545,
+		"iS": 6404942,
 		"oA": 0,
-		"oAP": "\/content\/projects\/1-black-locust-covered-deck\/black-locust-covered-deck-5.jpg",
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/1-black-locust-covered-deck\/project.txt": {
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-6.jpg": {
+		"ft": 16384,
+		"iS": 3256682,
+		"oA": 0,
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-7.jpg": {
+		"ft": 16384,
+		"iS": 6891111,
+		"oA": 0,
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-8.jpg": {
+		"ft": 16384,
+		"iS": 4548366,
+		"oA": 0,
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/black-locust-bench-swing-8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/1-black-locust-swing-glider\/project.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/projects\/1-black-locust-covered-deck\/project.txt",
+		"oAP": "\/content\/projects\/1-black-locust-swing-glider\/project.txt",
 		"oF": 0
 		},
 	"\/content\/projects\/10-reclaimed-pine-flooring-shelves\/project.txt": {
@@ -514,7 +442,7 @@
 		"oAP": "\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-2.jpg": {
@@ -524,7 +452,7 @@
 		"oAP": "\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-3.jpg": {
@@ -534,7 +462,7 @@
 		"oAP": "\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-4.jpg": {
@@ -544,7 +472,7 @@
 		"oAP": "\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-5.jpg": {
@@ -554,34 +482,74 @@
 		"oAP": "\/content\/projects\/10-reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/11-oak-bi-fold-doors\/oak-bi-fold-doors-1.jpg": {
+	"\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-1.jpg": {
 		"ft": 16384,
-		"iS": 11260091,
+		"iS": 8821731,
 		"oA": 0,
-		"oAP": "\/content\/projects\/11-oak-bi-fold-doors\/oak-bi-fold-doors-1.jpg",
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/11-oak-bi-fold-doors\/oak-bi-fold-doors-2.jpg": {
+	"\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-2.jpg": {
 		"ft": 16384,
-		"iS": 9082877,
+		"iS": 8221482,
 		"oA": 0,
-		"oAP": "\/content\/projects\/11-oak-bi-fold-doors\/oak-bi-fold-doors-2.jpg",
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/11-oak-bi-fold-doors\/project.txt": {
+	"\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-3.jpg": {
+		"ft": 16384,
+		"iS": 9049710,
+		"oA": 0,
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-4.jpg": {
+		"ft": 16384,
+		"iS": 11038175,
+		"oA": 0,
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-5.jpg": {
+		"ft": 16384,
+		"iS": 12453721,
+		"oA": 0,
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-6.jpg": {
+		"ft": 16384,
+		"iS": 7726199,
+		"oA": 0,
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/cedar-adirondacks-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/11-cedar-adirondacks\/project.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/projects\/11-oak-bi-fold-doors\/project.txt",
+		"oAP": "\/content\/projects\/11-cedar-adirondacks\/project.txt",
 		"oF": 0
 		},
 	"\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-1.jpg": {
@@ -591,7 +559,7 @@
 		"oAP": "\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-2.jpg": {
@@ -601,7 +569,7 @@
 		"oAP": "\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-3.jpg": {
@@ -611,7 +579,7 @@
 		"oAP": "\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-4.jpg": {
@@ -621,7 +589,7 @@
 		"oAP": "\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-5.jpg": {
@@ -631,7 +599,7 @@
 		"oAP": "\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-6.jpg": {
@@ -641,7 +609,7 @@
 		"oAP": "\/content\/projects\/12-browns-cabin\/chimney-rock-cabin-remodel-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/12-browns-cabin\/project.txt": {
@@ -658,7 +626,7 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/butternut-table-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/13-butternut-table\/butternut-table-2.jpg": {
@@ -668,7 +636,7 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/butternut-table-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/13-butternut-table\/butternut-table-3.JPG": {
@@ -678,7 +646,7 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/butternut-table-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/13-butternut-table\/butternut-table-4.JPG": {
@@ -688,7 +656,7 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/butternut-table-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/13-butternut-table\/butternut-table-5.JPG": {
@@ -698,7 +666,7 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/butternut-table-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/13-butternut-table\/butternut-table-6.JPG": {
@@ -708,7 +676,7 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/butternut-table-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/13-butternut-table\/project.txt": {
@@ -718,138 +686,165 @@
 		"oAP": "\/content\/projects\/13-butternut-table\/project.txt",
 		"oF": 0
 		},
-	"\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-1.jpg": {
-		"ft": 16384,
-		"iS": 5974014,
-		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-2.jpg": {
-		"ft": 16384,
-		"iS": 7074074,
-		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-3.jpg": {
-		"ft": 16384,
-		"iS": 8779783,
-		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-4.jpg": {
-		"ft": 16384,
-		"iS": 5895659,
-		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-5.jpg": {
-		"ft": 16384,
-		"iS": 6769968,
-		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-6.jpg": {
-		"ft": 16384,
-		"iS": 5982969,
-		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/black-locust-lounge-set-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/2-black-locust-lounge-set\/project.txt": {
+	"\/content\/projects\/14-butternut-table-large\/14-butternut-table-large.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/projects\/2-black-locust-lounge-set\/project.txt",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/14-butternut-table-large.txt",
 		"oF": 0
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-1.jpg": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-1.jpg": {
 		"ft": 16384,
-		"iS": 8821731,
+		"iS": 300647,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-1.jpg",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-2.jpg": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-2.jpg": {
 		"ft": 16384,
-		"iS": 8221482,
+		"iS": 371410,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-2.jpg",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-3.jpg": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-3.jpg": {
 		"ft": 16384,
-		"iS": 9049710,
+		"iS": 351231,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-3.jpg",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-4.jpg": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-4.jpg": {
 		"ft": 16384,
-		"iS": 11038175,
+		"iS": 482781,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-4.jpg",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-5.jpg": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-5.jpg": {
 		"ft": 16384,
-		"iS": 12453721,
+		"iS": 717523,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-5.jpg",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-6.jpg": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-6.jpg": {
 		"ft": 16384,
-		"iS": 7726199,
+		"iS": 823621,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/cedar-adirondacks-6.jpg",
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/content\/projects\/3-cedar-adirondacks\/project.txt": {
+	"\/content\/projects\/14-butternut-table-large\/butternut-table-7.jpg": {
+		"ft": 16384,
+		"iS": 2470539,
+		"oA": 0,
+		"oAP": "\/content\/projects\/14-butternut-table-large\/butternut-table-7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-1.jpg": {
+		"ft": 16384,
+		"iS": 7290145,
+		"oA": 0,
+		"oAP": "\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-2.jpg": {
+		"ft": 16384,
+		"iS": 8017508,
+		"oA": 0,
+		"oAP": "\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-3.jpg": {
+		"ft": 16384,
+		"iS": 4933096,
+		"oA": 0,
+		"oAP": "\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-4.jpg": {
+		"ft": 16384,
+		"iS": 10251342,
+		"oA": 0,
+		"oAP": "\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-5.jpg": {
+		"ft": 16384,
+		"iS": 8190545,
+		"oA": 0,
+		"oAP": "\/content\/projects\/2-black-locust-covered-deck\/black-locust-covered-deck-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/2-black-locust-covered-deck\/project.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/projects\/3-cedar-adirondacks\/project.txt",
+		"oAP": "\/content\/projects\/2-black-locust-covered-deck\/project.txt",
+		"oF": 0
+		},
+	"\/content\/projects\/3-oak-bi-fold-doors\/oak-bi-fold-doors-1.jpg": {
+		"ft": 16384,
+		"iS": 11260091,
+		"oA": 0,
+		"oAP": "\/content\/projects\/3-oak-bi-fold-doors\/oak-bi-fold-doors-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/3-oak-bi-fold-doors\/oak-bi-fold-doors-2.jpg": {
+		"ft": 16384,
+		"iS": 9082877,
+		"oA": 0,
+		"oAP": "\/content\/projects\/3-oak-bi-fold-doors\/oak-bi-fold-doors-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/3-oak-bi-fold-doors\/project.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/projects\/3-oak-bi-fold-doors\/project.txt",
 		"oF": 0
 		},
 	"\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-1.jpg": {
@@ -859,7 +854,7 @@
 		"oAP": "\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-2.jpg": {
@@ -869,7 +864,7 @@
 		"oAP": "\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-3.jpg": {
@@ -879,7 +874,7 @@
 		"oAP": "\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-4.jpg": {
@@ -889,7 +884,7 @@
 		"oAP": "\/content\/projects\/4-painted-adirondacks\/painted-adirondacks-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/4-painted-adirondacks\/project.txt": {
@@ -899,165 +894,165 @@
 		"oAP": "\/content\/projects\/4-painted-adirondacks\/project.txt",
 		"oF": 0
 		},
-	"\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-1.jpg": {
-		"ft": 16384,
-		"iS": 8729124,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-2.jpg": {
-		"ft": 16384,
-		"iS": 8084519,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-3.jpg": {
-		"ft": 16384,
-		"iS": 5871899,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-4.jpg": {
-		"ft": 16384,
-		"iS": 8680375,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-5.jpg": {
-		"ft": 16384,
-		"iS": 9100131,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-6.jpg": {
-		"ft": 16384,
-		"iS": 8288523,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/hickory-shelving-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/5-hickory-studio-shelving\/project.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/content\/projects\/5-hickory-studio-shelving\/project.txt",
-		"oF": 0
-		},
-	"\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-1.jpg": {
-		"ft": 16384,
-		"iS": 8172936,
-		"oA": 0,
-		"oAP": "\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-2.jpg": {
-		"ft": 16384,
-		"iS": 10002931,
-		"oA": 0,
-		"oAP": "\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-3.jpg": {
-		"ft": 16384,
-		"iS": 10239823,
-		"oA": 0,
-		"oAP": "\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-4.jpg": {
-		"ft": 16384,
-		"iS": 8214632,
-		"oA": 0,
-		"oAP": "\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-5.jpg": {
-		"ft": 16384,
-		"iS": 8199562,
-		"oA": 0,
-		"oAP": "\/content\/projects\/6-cherry-marble-wine-rack\/cherry-wine-rack-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/6-cherry-marble-wine-rack\/project.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/content\/projects\/6-cherry-marble-wine-rack\/project.txt",
-		"oF": 0
-		},
-	"\/content\/projects\/7-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1.jpg": {
+	"\/content\/projects\/5-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1.jpg": {
 		"ft": 16384,
 		"iS": 5753481,
 		"oA": 0,
-		"oAP": "\/content\/projects\/7-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1.jpg",
+		"oAP": "\/content\/projects\/5-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/7-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2.jpg": {
+	"\/content\/projects\/5-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2.jpg": {
 		"ft": 16384,
 		"iS": 5209358,
 		"oA": 0,
-		"oAP": "\/content\/projects\/7-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2.jpg",
+		"oAP": "\/content\/projects\/5-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/7-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3.jpg": {
+	"\/content\/projects\/5-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3.jpg": {
 		"ft": 16384,
 		"iS": 7456484,
 		"oA": 0,
-		"oAP": "\/content\/projects\/7-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3.jpg",
+		"oAP": "\/content\/projects\/5-black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/7-black-locust-outdoor-cabinetry\/project.txt": {
+	"\/content\/projects\/5-black-locust-outdoor-cabinetry\/project.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/projects\/7-black-locust-outdoor-cabinetry\/project.txt",
+		"oAP": "\/content\/projects\/5-black-locust-outdoor-cabinetry\/project.txt",
+		"oF": 0
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-1.jpg": {
+		"ft": 16384,
+		"iS": 8729124,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-2.jpg": {
+		"ft": 16384,
+		"iS": 8084519,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-3.jpg": {
+		"ft": 16384,
+		"iS": 5871899,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-4.jpg": {
+		"ft": 16384,
+		"iS": 8680375,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-5.jpg": {
+		"ft": 16384,
+		"iS": 9100131,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-6.jpg": {
+		"ft": 16384,
+		"iS": 8288523,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/hickory-shelving-6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/6-hickory-studio-shelving\/project.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/projects\/6-hickory-studio-shelving\/project.txt",
+		"oF": 0
+		},
+	"\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-1.jpg": {
+		"ft": 16384,
+		"iS": 8172936,
+		"oA": 0,
+		"oAP": "\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-2.jpg": {
+		"ft": 16384,
+		"iS": 10002931,
+		"oA": 0,
+		"oAP": "\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-3.jpg": {
+		"ft": 16384,
+		"iS": 10239823,
+		"oA": 0,
+		"oAP": "\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-4.jpg": {
+		"ft": 16384,
+		"iS": 8214632,
+		"oA": 0,
+		"oAP": "\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-5.jpg": {
+		"ft": 16384,
+		"iS": 8199562,
+		"oA": 0,
+		"oAP": "\/content\/projects\/7-cherry-marble-wine-rack\/cherry-wine-rack-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/content\/projects\/7-cherry-marble-wine-rack\/project.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/projects\/7-cherry-marble-wine-rack\/project.txt",
 		"oF": 0
 		},
 	"\/content\/projects\/8-black-locust-table\/black-locust-table-1.jpg": {
@@ -1067,7 +1062,7 @@
 		"oAP": "\/content\/projects\/8-black-locust-table\/black-locust-table-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/8-black-locust-table\/black-locust-table-2.jpg": {
@@ -1077,7 +1072,7 @@
 		"oAP": "\/content\/projects\/8-black-locust-table\/black-locust-table-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/content\/projects\/8-black-locust-table\/project.txt": {
@@ -1087,682 +1082,72 @@
 		"oAP": "\/content\/projects\/8-black-locust-table\/project.txt",
 		"oF": 0
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-1.jpg": {
+	"\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-1.jpg": {
 		"ft": 16384,
-		"iS": 5624593,
+		"iS": 5974014,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-1.jpg",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-2.jpg": {
+	"\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-2.jpg": {
 		"ft": 16384,
-		"iS": 5305338,
+		"iS": 7074074,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-2.jpg",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-3.jpg": {
+	"\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-3.jpg": {
 		"ft": 16384,
-		"iS": 5878863,
+		"iS": 8779783,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-3.jpg",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-4.jpg": {
+	"\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-4.jpg": {
 		"ft": 16384,
-		"iS": 8084138,
+		"iS": 5895659,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-4.jpg",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-5.jpg": {
+	"\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-5.jpg": {
 		"ft": 16384,
-		"iS": 6404942,
+		"iS": 6769968,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-5.jpg",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-5.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-6.jpg": {
+	"\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-6.jpg": {
 		"ft": 16384,
-		"iS": 3256682,
+		"iS": 5982969,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-6.jpg",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/black-locust-lounge-set-6.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-7.jpg": {
-		"ft": 16384,
-		"iS": 6891111,
-		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-8.jpg": {
-		"ft": 16384,
-		"iS": 4548366,
-		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/black-locust-bench-swing-8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/9-black-locust-swing-glider\/project.txt": {
+	"\/content\/projects\/9-black-locust-lounge-set\/project.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/content\/projects\/9-black-locust-swing-glider\/project.txt",
+		"oAP": "\/content\/projects\/9-black-locust-lounge-set\/project.txt",
 		"oF": 0
-		},
-	"\/content\/projects\/originals\/1.jpg": {
-		"ft": 16384,
-		"iS": 4398581,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1073.jpg": {
-		"ft": 16384,
-		"iS": 2093418,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1073.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1077.jpg": {
-		"ft": 16384,
-		"iS": 1634140,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1077.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1078.jpg": {
-		"ft": 16384,
-		"iS": 1152984,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1078.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1080.jpg": {
-		"ft": 16384,
-		"iS": 2137383,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1080.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1129.jpg": {
-		"ft": 16384,
-		"iS": 2185909,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1129.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1138.jpg": {
-		"ft": 16384,
-		"iS": 2173050,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1138.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1984.jpg": {
-		"ft": 16384,
-		"iS": 3528944,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1984.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_1988.jpg": {
-		"ft": 16384,
-		"iS": 3316961,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_1988.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_2139.jpg": {
-		"ft": 16384,
-		"iS": 3732915,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_2139.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_2145.jpg": {
-		"ft": 16384,
-		"iS": 4290511,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_2145.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3187.JPG": {
-		"ft": 16384,
-		"iS": 4412579,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3187.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3191.JPG": {
-		"ft": 16384,
-		"iS": 3334824,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3191.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3893.JPG": {
-		"ft": 16384,
-		"iS": 1798685,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3893.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3897.JPG": {
-		"ft": 16384,
-		"iS": 1598617,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3897.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3898.JPG": {
-		"ft": 16384,
-		"iS": 1705966,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3898.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3910.JPG": {
-		"ft": 16384,
-		"iS": 2840643,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3910.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_3912.JPG": {
-		"ft": 16384,
-		"iS": 2184186,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_3912.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_4538.JPG": {
-		"ft": 16384,
-		"iS": 3045957,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_4538.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_4539.JPG": {
-		"ft": 16384,
-		"iS": 3761466,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_4539.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_4559.JPG": {
-		"ft": 16384,
-		"iS": 3913993,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_4559.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_4775.JPG": {
-		"ft": 16384,
-		"iS": 1985341,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_4775.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_4788.JPG": {
-		"ft": 16384,
-		"iS": 1572809,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_4788.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_4791.JPG": {
-		"ft": 16384,
-		"iS": 2656620,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_4791.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/100_5262.JPG": {
-		"ft": 16384,
-		"iS": 4668102,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/100_5262.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/2.jpg": {
-		"ft": 16384,
-		"iS": 2717800,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/3.JPG": {
-		"ft": 16384,
-		"iS": 2100894,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/ad chairs group.jpg": {
-		"ft": 16384,
-		"iS": 5645220,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/ad chairs group.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/ad chairs right.jpg": {
-		"ft": 16384,
-		"iS": 2498287,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/ad chairs right.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSC_0002.JPG": {
-		"ft": 16384,
-		"iS": 5172916,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSC_0002.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSC_0006.JPG": {
-		"ft": 16384,
-		"iS": 5089247,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSC_0006.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSC_0010.JPG": {
-		"ft": 16384,
-		"iS": 4989580,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSC_0010.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSC_0015.JPG": {
-		"ft": 16384,
-		"iS": 4748398,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSC_0015.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSC_0048.JPG": {
-		"ft": 16384,
-		"iS": 4065101,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSC_0048.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSC_0051.JPG": {
-		"ft": 16384,
-		"iS": 5275639,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSC_0051.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0357.JPG": {
-		"ft": 16384,
-		"iS": 6742099,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0357.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0362.JPG": {
-		"ft": 16384,
-		"iS": 6739684,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0362.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0381.JPG": {
-		"ft": 16384,
-		"iS": 6824449,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0381.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0382.JPG": {
-		"ft": 16384,
-		"iS": 6626850,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0382.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0386.JPG": {
-		"ft": 16384,
-		"iS": 6548030,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0386.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0525.JPG": {
-		"ft": 16384,
-		"iS": 3522681,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0525.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0530.JPG": {
-		"ft": 16384,
-		"iS": 3695205,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0530.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0743.JPG": {
-		"ft": 16384,
-		"iS": 3508560,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0743.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0745.JPG": {
-		"ft": 16384,
-		"iS": 3531991,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0745.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN0749.JPG": {
-		"ft": 16384,
-		"iS": 3637664,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN0749.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN1082.JPG": {
-		"ft": 16384,
-		"iS": 3523526,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN1082.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN1084.JPG": {
-		"ft": 16384,
-		"iS": 3492356,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN1084.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN1087.JPG": {
-		"ft": 16384,
-		"iS": 3580454,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN1087.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN1091.JPG": {
-		"ft": 16384,
-		"iS": 3529982,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN1091.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN1133.JPG": {
-		"ft": 16384,
-		"iS": 3591730,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN1133.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN3415.JPG": {
-		"ft": 16384,
-		"iS": 6412409,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN3415.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/DSCN3417.JPG": {
-		"ft": 16384,
-		"iS": 6436282,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/DSCN3417.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 001.jpg": {
-		"ft": 16384,
-		"iS": 3873906,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 001.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 004.jpg": {
-		"ft": 16384,
-		"iS": 2246476,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 004.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 006 1.11.16 PM.jpg": {
-		"ft": 16384,
-		"iS": 2966583,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 006 1.11.16 PM.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 006.jpg": {
-		"ft": 16384,
-		"iS": 2966583,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 006.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 007.jpg": {
-		"ft": 16384,
-		"iS": 1743156,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 007.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 008.jpg": {
-		"ft": 16384,
-		"iS": 2237152,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 008.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/content\/projects\/originals\/monica outdoor furniture 010.jpg": {
-		"ft": 16384,
-		"iS": 1939419,
-		"oA": 0,
-		"oAP": "\/content\/projects\/originals\/monica outdoor furniture 010.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
 		},
 	"\/content\/projects\/projects.txt": {
 		"cB": 0,
@@ -7783,6 +7168,13 @@
 		"oAP": "\/panel\/tests\/tests\/UserModelTest.php",
 		"oF": 0
 		},
+	"\/readme.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/readme.html",
+		"oF": 0
+		},
 	"\/readme.md": {
 		"cB": 0,
 		"cS": 0,
@@ -7834,6 +7226,13 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/blueprints\/default.yaml",
+		"oF": 0
+		},
+	"\/site\/blueprints\/error.yaml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/blueprints\/error.yaml",
 		"oF": 0
 		},
 	"\/site\/blueprints\/home.yaml": {
@@ -8898,6 +8297,13 @@
 		"oAP": "\/site\/snippets\/footer.php",
 		"oF": 0
 		},
+	"\/site\/snippets\/html_footer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/snippets\/html_footer.php",
+		"oF": 0
+		},
 	"\/site\/snippets\/map.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -8940,11 +8346,39 @@
 		"oAP": "\/site\/templates\/default.php",
 		"oF": 0
 		},
+	"\/site\/templates\/error.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/templates\/error.php",
+		"oF": 0
+		},
 	"\/site\/templates\/home.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/site\/templates\/home.php",
+		"oF": 0
+		},
+	"\/site\/templates\/project.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/templates\/project.php",
+		"oF": 0
+		},
+	"\/site\/templates\/projects.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/templates\/projects.php",
+		"oF": 0
+		},
+	"\/site\/templates\/testimonials.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/site\/templates\/testimonials.php",
 		"oF": 0
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-1-1600x1200.jpg": {
@@ -8954,7 +8388,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-1-600x450.jpg": {
@@ -8964,7 +8398,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-1-75x75.jpg": {
@@ -8984,7 +8418,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-2-600x450.jpg": {
@@ -8994,7 +8428,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-2-75x75.jpg": {
@@ -9014,7 +8448,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-3-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-3-600x800.jpg": {
@@ -9024,7 +8458,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-3-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-3-75x75.jpg": {
@@ -9044,7 +8478,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-4-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-4-600x450.jpg": {
@@ -9054,7 +8488,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-4-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-4-75x75.jpg": {
@@ -9074,7 +8508,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-5-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-5-600x450.jpg": {
@@ -9084,7 +8518,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-5-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-covered-deck\/black-locust-covered-deck-5-75x75.jpg": {
@@ -9204,7 +8638,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-1-600x450.jpg": {
@@ -9214,7 +8648,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-2-1600x1200.jpg": {
@@ -9224,7 +8658,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-2-600x450.jpg": {
@@ -9234,7 +8668,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-3-1600x1200.jpg": {
@@ -9244,7 +8678,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-3-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-3-600x450.jpg": {
@@ -9254,7 +8688,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-3-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-4-1600x1200.jpg": {
@@ -9264,7 +8698,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-4-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-4-600x450.jpg": {
@@ -9274,7 +8708,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-4-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-5-1600x1200.jpg": {
@@ -9284,7 +8718,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-5-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-5-600x450.jpg": {
@@ -9294,7 +8728,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-5-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-6-1600x1200.jpg": {
@@ -9304,7 +8738,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-6-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-6-600x450.jpg": {
@@ -9314,7 +8748,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-lounge-set\/black-locust-lounge-set-6-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-lounge-set\/monica-outdoor-furniture-001-1600x1200.jpg": {
@@ -9804,7 +9238,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1-600x800.jpg": {
@@ -9814,7 +9248,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-1-75x75.jpg": {
@@ -9834,7 +9268,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2-600x450.jpg": {
@@ -9844,7 +9278,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-2-75x75.jpg": {
@@ -9864,7 +9298,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3-600x450.jpg": {
@@ -9874,7 +9308,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-outdoor-cabinetry\/black-locust-outdoor-cabinets-3-75x75.jpg": {
@@ -10324,7 +9758,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-1-600x450.jpg": {
@@ -10334,7 +9768,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-2-1600x2133.jpg": {
@@ -10344,7 +9778,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-2-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-2-600x800.jpg": {
@@ -10354,7 +9788,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-2-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-3-1600x2133.jpg": {
@@ -10364,7 +9798,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-3-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-3-600x800.jpg": {
@@ -10374,7 +9808,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-3-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-4-1600x1200.jpg": {
@@ -10384,7 +9818,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-4-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-4-600x450.jpg": {
@@ -10394,7 +9828,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-4-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-5-1600x1200.jpg": {
@@ -10404,7 +9838,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-5-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-5-600x450.jpg": {
@@ -10414,7 +9848,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-5-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-6-1600x1195.jpg": {
@@ -10424,7 +9858,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-6-1600x1195.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-6-600x448.jpg": {
@@ -10434,7 +9868,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-6-600x448.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-7-1600x1200.jpg": {
@@ -10444,7 +9878,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-7-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-7-600x450.jpg": {
@@ -10454,7 +9888,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-7-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-8-1600x1200.jpg": {
@@ -10464,7 +9898,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-8-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-8-600x450.jpg": {
@@ -10474,7 +9908,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-swing-glider\/black-locust-bench-swing-8-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-table\/100_3187-1600x1200.jpg": {
@@ -10524,7 +9958,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-table\/black-locust-table-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-table\/black-locust-table-1-600x450.jpg": {
@@ -10534,7 +9968,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-table\/black-locust-table-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-table\/black-locust-table-2-1600x1067.jpg": {
@@ -10544,7 +9978,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-table\/black-locust-table-2-1600x1067.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/black-locust-table\/black-locust-table-2-600x400.jpg": {
@@ -10554,7 +9988,7 @@
 		"oAP": "\/thumbs\/projects\/black-locust-table\/black-locust-table-2-600x400.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-1-1600x1063.jpg": {
@@ -10564,7 +9998,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-1-1600x1063.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-1-600x399.jpg": {
@@ -10574,7 +10008,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-1-600x399.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-2-1600x1063.jpg": {
@@ -10584,7 +10018,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-2-1600x1063.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-2-600x399.jpg": {
@@ -10594,7 +10028,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-2-600x399.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-3-1600x1063.jpg": {
@@ -10604,7 +10038,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-3-1600x1063.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-3-600x399.jpg": {
@@ -10614,7 +10048,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-3-600x399.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-4-1600x2409.jpg": {
@@ -10624,7 +10058,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-4-1600x2409.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-4-600x903.jpg": {
@@ -10634,7 +10068,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-4-600x903.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-5-1600x2409.jpg": {
@@ -10644,7 +10078,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-5-1600x2409.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-5-600x903.jpg": {
@@ -10654,7 +10088,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-5-600x903.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-6-1600x1063.jpg": {
@@ -10664,7 +10098,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-6-1600x1063.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-6-600x399.jpg": {
@@ -10674,7 +10108,7 @@
 		"oAP": "\/thumbs\/projects\/browns-cabin\/chimney-rock-cabin-remodel-6-600x399.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/browns-cabin\/dsc_0002-1000x664.jpg": {
@@ -11032,6 +10466,196 @@
 		"iS": 59804,
 		"oA": 0,
 		"oAP": "\/thumbs\/projects\/butternut-knife-case\/p1010003e-640x480.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-1-1600x900.jpg": {
+		"ft": 16384,
+		"iS": 92858,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-1-1600x900.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-1-600x338.jpg": {
+		"ft": 16384,
+		"iS": 20857,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-1-600x338.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-1-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2211,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-1-75x75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-2-1600x900.jpg": {
+		"ft": 16384,
+		"iS": 114306,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-2-1600x900.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-2-600x338.jpg": {
+		"ft": 16384,
+		"iS": 25632,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-2-600x338.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-2-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2658,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-2-75x75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-3-1600x1200.jpg": {
+		"ft": 16384,
+		"iS": 128037,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-3-1600x1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-3-600x450.jpg": {
+		"ft": 16384,
+		"iS": 26297,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-3-600x450.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-3-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2230,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-3-75x75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-4-1600x1200.jpg": {
+		"ft": 16384,
+		"iS": 152255,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-4-1600x1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-4-600x450.jpg": {
+		"ft": 16384,
+		"iS": 33608,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-4-600x450.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-4-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2536,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-4-75x75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-5-1600x1200.jpg": {
+		"ft": 16384,
+		"iS": 216447,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-5-1600x1200.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-5-600x450.jpg": {
+		"ft": 16384,
+		"iS": 43291,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-5-600x450.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-5-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2883,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-5-75x75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-6-1600x1067.jpg": {
+		"ft": 16384,
+		"iS": 195541,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-6-1600x1067.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-6-600x400.jpg": {
+		"ft": 16384,
+		"iS": 37542,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-6-600x400.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-6-75x75.jpg": {
+		"ft": 16384,
+		"iS": 2937,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-6-75x75.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/thumbs\/projects\/butternut-table-large\/butternut-table-7-1600x1200.jpg": {
+		"ft": 16384,
+		"iS": 659709,
+		"oA": 0,
+		"oAP": "\/thumbs\/projects\/butternut-table-large\/butternut-table-7-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -11414,7 +11038,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-2-600x450.jpg": {
@@ -11424,7 +11048,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-3-1600x1200.jpg": {
@@ -11434,7 +11058,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-3-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-3-600x450.jpg": {
@@ -11444,7 +11068,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-3-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-4-1600x1200.jpg": {
@@ -11454,7 +11078,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-4-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-4-600x450.jpg": {
@@ -11464,7 +11088,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-4-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-5-1600x1200.jpg": {
@@ -11474,7 +11098,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-5-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-5-600x450.jpg": {
@@ -11484,7 +11108,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-5-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-6-1600x1200.jpg": {
@@ -11494,7 +11118,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-6-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/butternut-table\/butternut-table-6-600x450.jpg": {
@@ -11504,7 +11128,7 @@
 		"oAP": "\/thumbs\/projects\/butternut-table\/butternut-table-6-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/100_1982-1600x1200.jpg": {
@@ -11694,7 +11318,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-1-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-1-600x800.jpg": {
@@ -11704,7 +11328,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-1-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-2-1600x1200.jpg": {
@@ -11714,7 +11338,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-2-600x450.jpg": {
@@ -11724,7 +11348,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-3-1600x1370.jpg": {
@@ -11734,7 +11358,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-3-1600x1370.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-3-600x514.jpg": {
@@ -11744,7 +11368,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-3-600x514.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-4-1600x1200.jpg": {
@@ -11754,7 +11378,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-4-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-4-600x450.jpg": {
@@ -11764,7 +11388,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-4-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-5-1600x1200.jpg": {
@@ -11774,7 +11398,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-5-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-5-600x450.jpg": {
@@ -11784,7 +11408,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-5-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-6-1600x1042.jpg": {
@@ -11794,7 +11418,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-6-1600x1042.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-6-600x391.jpg": {
@@ -11804,7 +11428,7 @@
 		"oAP": "\/thumbs\/projects\/cedar-adirondacks\/cedar-adirondacks-6-600x391.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-1-1600x2133.jpg": {
@@ -11814,7 +11438,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-1-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-1-600x800.jpg": {
@@ -11824,7 +11448,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-1-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-1-75x75.jpg": {
@@ -11844,7 +11468,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-2-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-2-600x800.jpg": {
@@ -11854,7 +11478,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-2-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-2-75x75.jpg": {
@@ -11874,7 +11498,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-3-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-3-600x800.jpg": {
@@ -11884,7 +11508,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-3-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-3-75x75.jpg": {
@@ -11904,7 +11528,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-4-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-4-600x800.jpg": {
@@ -11914,7 +11538,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-4-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-4-75x75.jpg": {
@@ -11934,7 +11558,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-5-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-5-600x800.jpg": {
@@ -11944,7 +11568,7 @@
 		"oAP": "\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-5-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/cherry-marble-wine-rack\/cherry-wine-rack-5-75x75.jpg": {
@@ -12184,7 +11808,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-1-600x450.jpg": {
@@ -12194,7 +11818,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-2-1600x1200.jpg": {
@@ -12204,7 +11828,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-2-600x450.jpg": {
@@ -12214,7 +11838,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-3-1600x1200.jpg": {
@@ -12224,7 +11848,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-3-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-3-600x450.jpg": {
@@ -12234,7 +11858,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-3-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-4-1600x2133.jpg": {
@@ -12244,7 +11868,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-4-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-4-600x800.jpg": {
@@ -12254,7 +11878,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-4-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-5-1600x1200.jpg": {
@@ -12264,7 +11888,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-5-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-5-600x450.jpg": {
@@ -12274,7 +11898,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-5-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-6-1600x2133.jpg": {
@@ -12284,7 +11908,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-6-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-6-600x800.jpg": {
@@ -12294,7 +11918,7 @@
 		"oAP": "\/thumbs\/projects\/hickory-studio-shelving\/hickory-shelving-6-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/oak-bi-fold-doors\/dscn3415-1600x1200.jpg": {
@@ -12454,7 +12078,7 @@
 		"oAP": "\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-1-600x450.jpg": {
@@ -12464,7 +12088,7 @@
 		"oAP": "\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-2-1600x1200.jpg": {
@@ -12474,7 +12098,7 @@
 		"oAP": "\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-2-600x450.jpg": {
@@ -12484,7 +12108,7 @@
 		"oAP": "\/thumbs\/projects\/oak-bi-fold-doors\/oak-bi-fold-doors-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/100_4538-1000x750.jpg": {
@@ -12664,7 +12288,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-1-600x450.jpg": {
@@ -12674,7 +12298,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-2-1600x1200.jpg": {
@@ -12684,7 +12308,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-2-600x450.jpg": {
@@ -12694,7 +12318,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-3-1600x900.jpg": {
@@ -12704,7 +12328,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-3-1600x900.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-3-600x337.jpg": {
@@ -12714,7 +12338,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-3-600x337.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-4-1600x1200.jpg": {
@@ -12734,7 +12358,7 @@
 		"oAP": "\/thumbs\/projects\/painted-adirondacks\/painted-adirondacks-4-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/dscn1082-1600x1200.jpg": {
@@ -12894,7 +12518,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-1-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-1-600x450.jpg": {
@@ -12904,7 +12528,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-1-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-2-1600x1200.jpg": {
@@ -12914,7 +12538,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-2-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-2-600x450.jpg": {
@@ -12924,7 +12548,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-2-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-3-1600x1200.jpg": {
@@ -12934,7 +12558,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-3-1600x1200.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-3-600x450.jpg": {
@@ -12944,7 +12568,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-3-600x450.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-4-1600x2133.jpg": {
@@ -12954,7 +12578,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-4-1600x2133.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-4-600x800.jpg": {
@@ -12964,7 +12588,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-4-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-5-1600x2134.jpg": {
@@ -12974,7 +12598,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-5-1600x2134.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-5-600x800.jpg": {
@@ -12984,7 +12608,7 @@
 		"oAP": "\/thumbs\/projects\/reclaimed-pine-flooring-shelves\/reclaimed-pine-flooring-shelves-5-600x800.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		}
 	},

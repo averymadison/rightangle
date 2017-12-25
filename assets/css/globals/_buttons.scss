@@ -1,5 +1,6 @@
 button, a.button, input[type=submit] {
   @extend %font-sans;
+  @extend %unselectable;
   text-transform: capitalize;
   background-color: rgba($color_white, 0.8);
   border: none;

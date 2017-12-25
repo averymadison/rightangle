@@ -12,8 +12,8 @@ Bugs:
 - Need favicon
 - Filter bar border color responsive
 - Filter bar wrapping single col
-- Svg map state borders
 - Sticky.js
+- Nav hiding mobile
 
 Testing:
 
@@ -23,13 +23,13 @@ Testing:
 - Google Page Speed
 - W3C Validator
 
-Misc:
+To-do:
 
-- Rewrite introduction
-- Edit bio and add pic
+- Submit website to Isotope, Photoswipe, Kirby
+
+To-do with dad:
+
+- Refine introduction
+- Edit bio and add pic - new headshot
 - Create Process page
-- Redirect /testimonials to /
-- Redirect /projects to /
-- Submit website to Isotope, Photoswipe
-- Create error page
-- Buy Kirby license
+- Announce new site to people who responded, share online (FB, IG, Dribbble, etc.)

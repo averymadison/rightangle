@@ -13,6 +13,15 @@
     <?php endif ?>
   </title>
 
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30064622-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-30064622-1');
+  </script>
+
   <link rel="stylesheet" href="assets/css/main.css">
   <link rel="stylesheet" href="https://use.typekit.net/jlg8ump.css">
   <script src="node_modules/imagesloaded/imagesloaded.pkgd.min.js"></script>

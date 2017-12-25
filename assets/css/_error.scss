@@ -1,0 +1,14 @@
+// Error Page
+
+.error {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    margin-bottom: 2rem;
+  }
+}

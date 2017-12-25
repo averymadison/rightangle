@@ -5,10 +5,8 @@
   blockquote {
 
     .quote {
-      font-style: italic;
-      line-height: 1.35;
       p:first-child {
-        text-indent: -0.45em;
+        text-indent: -0.5em;
         &:before {
           content: '“';
         }
@@ -22,13 +20,17 @@
     }
 
     cite {
-      @extend %font-sans;
       display: block;
       padding-top: 1rem;
       font-style: normal;
       padding-left: 1.4rem;
       position: relative;
-      font-size: 1.1rem;
+      font-size: 1rem;
+    }
+
+    .quote-author {
+      @extend %font-sans;
+      font-weight: 600;
       &:before {
         content: '—';
         left: 0;
@@ -36,15 +38,8 @@
       }
     }
 
-    .quote-author {
-      font-weight: 600;
-    }
-
     .quote-location {
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      font-size: 0.85rem;
-      font-weight: 600;
+      font-style: italic;
       margin-top: 0.2rem;
     }
   }
