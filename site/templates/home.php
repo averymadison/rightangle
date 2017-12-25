@@ -90,6 +90,6 @@
 <?php snippet('photoswipe') ?>
 
 <script src="node_modules/sticky-js/dist/sticky.min.js"></script>
-<script src="assets/js/scripts.js"></script>
+<script src="assets/js/scripts.min.js"></script>
 
 <?php snippet('footer') ?>

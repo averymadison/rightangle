@@ -299,22 +299,22 @@
 		"oAP": "\/assets\/js\/.gitkeep",
 		"oF": 0
 		},
-	"\/assets\/js\/scripts-min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/scripts-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"\/assets\/js\/scripts.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/js\/scripts-min.js",
+		"oAP": "\/assets\/js\/scripts.min.js",
+		"oF": 2,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/assets\/js\/scripts.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/scripts.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
