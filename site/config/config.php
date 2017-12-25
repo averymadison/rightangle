@@ -19,4 +19,5 @@ http://getkirby.com/docs/advanced/options
 
 */
 
+c::set('thumbs.driver', 'im');
 c::set('smartypants', true);
