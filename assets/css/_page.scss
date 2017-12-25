@@ -20,9 +20,10 @@
     }
   }
   &.footnotes {
-    margin-top: 3rem;
+    margin-top: 2rem;
     p {
       @extend %font-sans;
+      color: $color_text_light;
       text-align: center;
       font-size: 0.9rem;
     }
