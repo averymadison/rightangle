@@ -173,6 +173,19 @@
 		"oS": 3,
 		"uL": 1
 		},
+	"\/assets\/css\/globals\/_normalize.scss": {
+		"aP": 1,
+		"bl": 1,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/globals\/_normalize.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
 	"\/assets\/css\/globals\/_typography.scss": {
 		"aP": 1,
 		"bl": 1,
