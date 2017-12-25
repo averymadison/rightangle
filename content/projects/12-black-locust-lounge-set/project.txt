@@ -2,7 +2,7 @@ Title: Black Locust Lounge Set
 
 ----
 
-Text: Lounge set text.
+Text: This was built from black locust, blah blah....
 
 ----
 
