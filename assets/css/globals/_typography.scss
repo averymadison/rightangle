@@ -15,9 +15,6 @@
 html {
   -webkit-font-smoothing: antialiased; // Fix fatty fonts
   -moz-osx-font-smoothing: grayscale;
-}
-
-body {
   font-weight: regular;
   font-size: 15px;
   line-height: 1.5;
@@ -26,9 +23,9 @@ body {
   font-kerning: normal;
   @extend %font-serif;
   @include media-min(400px) { font-size: 16px; }
-  @include media-min(500px) { font-size: 17px; }
-  @include media-min(620px) { font-size: 18px; }
-  @include media-min(820px) { font-size: 19px; }
+  @include media-min(600px) { font-size: 17px; }
+  @include media-min(900px) { font-size: 18px; }
+  @include media-min(1100px) { font-size: 19px; }
 }
 
 a {
@@ -37,7 +34,7 @@ a {
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   line-height: 1;
   font-weight: bold;
 }

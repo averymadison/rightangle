@@ -55,10 +55,7 @@
 
 .gallery-controls {
   text-align: center;
-  padding-bottom: 2rem;
-  @include media-max($bp_mobile) {
-    display: none;
-  }
+  margin-bottom: $gallery_gutter;
 }
 
 .filter-bar {
@@ -67,7 +64,6 @@
   background-size: 300px;
   background-repeat: repeat;
   box-shadow: 0 4px 16px -4px rgba(0,0,0,0.02);
-  border-radius: $filter_radius + $filter_padding;
   overflow: hidden;
   display: flex;
   align-items: stretch;

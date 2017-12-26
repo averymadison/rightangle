@@ -9,7 +9,7 @@
 
 <div class="gallery-container" data-sticky-container>
 
-  <div class="gallery-controls wrapper">
+  <div class="gallery-controls">
     <div class="filter-bar filter-button-group">
       <button data-filter="*" class="is-checked">Show All</button><button data-filter=".furniture">Furniture</button><button data-filter=".remodel">Remodeling</button><button data-filter=".testimonial">Testimonials</button>
     </div>

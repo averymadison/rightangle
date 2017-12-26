@@ -7,10 +7,10 @@ button, a.button, input[type=submit] {
   box-shadow: 0 4px 8px -4px rgba(0,0,0,0.03);
   border-radius: $button_radius;
   cursor: pointer;
-  padding: 0.75rem 1.5rem;
+  padding: 0.6rem 1.2rem;
   color: lighten($color_text, 10);
   margin: 8px;
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600;
   display: inline-block;
   line-height: 1.1;
