@@ -20,7 +20,7 @@ http://getkirby.com/docs/advanced/options
 */
 
 c::set('thumbs.presets', [
-  'masonry' => ['width' => 600, 'quality' => 80],
+  'masonry' => ['width' => 600, 'quality' => 60],
   'lightbox' => ['width' => 1800, 'quality' => 80],
 ]);
 c::set('smartypants', true);
