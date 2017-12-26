@@ -20,13 +20,15 @@ $nav_mobile_height: 54px;
 $gallery_gutter: 6px;
 $button_radius: 3rem;
 $filter_radius: 2px;
+$filter_padding: 4px;
 $form_gutter: 1rem;
 
 // Z-indices
 $z_mapbg: 1;
 $z_maptext: 5;
-$z_header: 100;
 $z_filter: 50;
+$z_nav: 100;
+
 
 // Breakpoints
 $bp_gallery_2col: 1160px;
