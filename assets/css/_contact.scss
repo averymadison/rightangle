@@ -75,6 +75,8 @@
     }
 
     label {
+      @extend %font-sans;
+      @extend %unselectable;
       position: absolute;
       top: 0;
       left: 0;
@@ -87,7 +89,6 @@
       font-weight: 600;
       cursor: text;
       color: $color_text_light;
-      @extend %font-sans;
     }
 
     textarea {
