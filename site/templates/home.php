@@ -83,8 +83,8 @@
 
 </div>
 
-<link rel="stylesheet" href="node_modules/photoswipe/dist/photoswipe.css">
-<link rel="stylesheet" href="node_modules/photoswipe/dist/default-skin/default-skin.css">
+<link rel="stylesheet" href="node_modules/photoswipe/dist/photoswipe.min.css">
+<link rel="stylesheet" href="node_modules/photoswipe/dist/default-skin/default-skin.min.css">
 <script src="node_modules/photoswipe/dist/photoswipe.min.js"></script>
 <script src="node_modules/photoswipe/dist/photoswipe-ui-default.min.js"></script>
 <?php snippet('photoswipe') ?>
