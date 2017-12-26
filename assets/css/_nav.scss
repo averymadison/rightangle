@@ -93,6 +93,6 @@ main {
   margin-left: $nav_width;
   @include media-max($bp_mobile) {
     margin-left: 0;
-    height: calc(100vh - #{$nav_mobile_height});
+    margin-bottom: $nav_mobile_height;
   }
 }
