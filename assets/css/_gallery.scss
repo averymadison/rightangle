@@ -56,6 +56,9 @@
 .gallery-controls {
   text-align: center;
   padding-bottom: 2rem;
+  @include media-max($bp_mobile) {
+    display: none;
+  }
 }
 
 .filter-bar {
