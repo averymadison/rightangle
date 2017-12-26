@@ -19,5 +19,8 @@ http://getkirby.com/docs/advanced/options
 
 */
 
-c::set('thumbs.driver', 'im');
+c::set('thumbs.presets', [
+  'masonry' => ['width' => 600, 'quality' => 80],
+  'lightbox' => ['width' => 1800, 'quality' => 80],
+]);
 c::set('smartypants', true);

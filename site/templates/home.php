@@ -32,17 +32,11 @@
 
     <?php foreach ($pages as $page): ?>
 
-      <?php
-        $images = $page->files()->filterBy('type', 'image');
-        foreach ($images as $image): ?>
+      <?php foreach ($page->images() as $image): ?>
 
-        <?php
-          $imageMax = $image->resize(1600, null, 80);
-          $imageThumb = $image->resize(600, null, 80);
-          ?>
         <figure class="gallery-item <?= $page->category()->value() ?>" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-          <a href="<?= $imageMax->url(); ?>" itemprop="contentUrl" data-size="<?= $imageMax->width(); ?>x<?= $imageMax->height(); ?>" title="<?= $page->text()->value(); ?>">
-            <img src="<?= $imageThumb->url(); ?>" itemprop="thumbnail" alt="<?= $page->title()->value(); ?> <?= $page->text()->value(); ?>" class="img-responsive"/>
+          <a href="<?= $image->thumb('lightbox')->url() ?>" itemprop="contentUrl" data-size="<?= $image->thumb('lightbox')->width() ?>x<?= $image->thumb('lightbox')->height() ?>" title="<?= $page->text()->value(); ?>">
+            <img src="<?= $image->thumb('masonry')->url() ?>" itemprop="thumbnail" alt="<?= $page->title()->value(); ?> <?= $page->text()->value(); ?>" class="img-responsive"/>
           </a>
         </figure>
       <?php endforeach; ?>
