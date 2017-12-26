@@ -38,7 +38,7 @@
 
         <?php
           $imageMax = $image->resize(1600, null, 80);
-          $imageThumb = $image->resize(600, 80);
+          $imageThumb = $image->resize(600, null, 80);
           ?>
         <figure class="gallery-item <?= $page->category()->value() ?>" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
           <a href="<?= $imageMax->url(); ?>" itemprop="contentUrl" data-size="<?= $imageMax->width(); ?>x<?= $imageMax->height(); ?>" title="<?= $page->text()->value(); ?>">
