@@ -20,6 +20,13 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
+  <meta property="og:title" content="<?= $page->title() ?>">
+  <?php if($page->text()): ?>
+    <meta property="og:description" content="<?= $page->text() ?>">
+  <?php endif ?>
+  <meta property="og:image" content="assets/images/og_featuredimage.jpg">
+  <meta property="og:url" content="<?= $page->url() ?>">
+  <meta property="og:site_name" content="<?= $site->title() ?>">
 
   <title>
     <?php if($page->isHomePage()): ?>
