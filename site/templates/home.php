@@ -58,12 +58,12 @@
               <?= $testimonial->quote()->kirbytext() ?>
             </div>
             <cite itemscope itemtype="http://schema.org/Person">
-              <div class="quote-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+              <span class="quote-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
                 <?= $testimonial->customer() ?>
-              </div>
-              <div class="quote-location" itemprop="location" itemscope itemtype="http://schema.org/Place">
+              </span>
+              <span class="quote-location" itemprop="location" itemscope itemtype="http://schema.org/Place">
                 <?= $testimonial->location() ?>
-              </div>
+              </span>
             </cite>
           </blockquote>
         </div>
