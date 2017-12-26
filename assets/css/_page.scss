@@ -1,9 +1,16 @@
 // General Page Styles
 
 .page-title {
-  padding: 3rem 0;
+  padding: 2.5rem 0;
   text-align: center;
-  //border-bottom: 1px solid $color_border;
+  min-height: $nav_width;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  h1 {
+    display: block;
+    text-align: center;
+  }
 }
 
 .page-content {
