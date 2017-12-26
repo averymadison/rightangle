@@ -60,7 +60,10 @@
 
 .filter-bar {
   background-color: $color_white;
-  box-shadow: 0 10px 16px -4px rgba(0,0,0,0.05);
+  background-image: url('../images/bg-white.png');
+  background-size: 300px;
+  background-repeat: repeat;
+  box-shadow: 0 4px 16px -4px rgba(0,0,0,0.02);
   border-radius: $filter_radius + $filter_padding;
   overflow: hidden;
   display: flex;
@@ -70,6 +73,7 @@
   button {
     flex: 1;
     margin: 0;
+    background: transparent;
     border-radius: $filter_radius;
     box-shadow: none;
     &.is-checked {

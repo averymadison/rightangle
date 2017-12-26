@@ -9,7 +9,7 @@
 
 <div class="gallery-container" data-sticky-container>
 
-  <div class="gallery-controls wrapper sticky" data-sticky-class="is-sticky">
+  <div class="gallery-controls wrapper">
     <div class="filter-bar filter-button-group">
       <button data-filter="*" class="is-checked">Show All</button><button data-filter=".furniture">Furniture</button><button data-filter=".remodel">Remodeling</button><button data-filter=".testimonial">Testimonials</button>
     </div>
@@ -89,7 +89,7 @@
 <script src="node_modules/photoswipe/dist/photoswipe-ui-default.min.js"></script>
 <?php snippet('photoswipe') ?>
 
-<script src="node_modules/sticky-js/dist/sticky.min.js"></script>
+<script src="node_modules/stickybits/dist/stickybits.min.js"></script>
 <script src="assets/js/scripts.min.js"></script>
 
 <?php snippet('footer') ?>
