@@ -82,8 +82,6 @@
 <script src="node_modules/photoswipe/dist/photoswipe.min.js"></script>
 <script src="node_modules/photoswipe/dist/photoswipe-ui-default.min.js"></script>
 <?php snippet('photoswipe') ?>
-
-<script src="node_modules/stickybits/dist/stickybits.min.js"></script>
 <script src="assets/js/scripts.min.js"></script>
 
 <?php snippet('footer') ?>
