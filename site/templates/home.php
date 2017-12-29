@@ -35,8 +35,8 @@
       <?php foreach ($page->images() as $image): ?>
 
         <figure class="gallery-item <?= $page->category()->value() ?>" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-          <a href="<?= $image->thumb('lightbox')->url() ?>" itemprop="contentUrl" data-size="<?= $image->thumb('lightbox')->width() ?>x<?= $image->thumb('lightbox')->height() ?>" title="<?= $page->text()->value(); ?>">
-            <img src="<?= $image->thumb('masonry')->url() ?>" itemprop="thumbnail" alt="<?= $page->title()->value(); ?> <?= $page->text()->value(); ?>" class="img-responsive"/>
+          <a href="<?= $image->thumb('lightbox')->url() ?>" itemprop="contentUrl" data-size="<?= $image->thumb('lightbox')->width() ?>x<?= $image->thumb('lightbox')->height() ?>" title="<?= $image->caption()->value(); ?>">
+            <img src="<?= $image->thumb('masonry')->url() ?>" itemprop="thumbnail" alt="<?= $page->title()->value(); ?> <?= $image->caption()->value(); ?>" class="img-responsive"/>
           </a>
         </figure>
       <?php endforeach; ?>

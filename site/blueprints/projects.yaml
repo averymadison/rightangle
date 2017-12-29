@@ -1,5 +1,7 @@
 title: Projects
-pages: project
+pages:
+  template: project
+  sort: flip
 files: false
 options:
   preview: false
@@ -19,7 +21,12 @@ fields:
     label: How to rearrange projects
     type:  info
     text: >
-      Projects can be rearranged by clicking the "edit" button on the left and dragging entries up and down. The entry at the bottom (newest added) will appear at the top of the homepage. (The list gets reversed: whatever is #1 on the list here will appear last on the homepage, or visa versa.)
+      Projects can be rearranged by clicking the "edit" button on the left and dragging entries up and down. Higher numbered entries display higher up on the page. Projects with a dash (-) for the number indicate that the project is hidden from the homepage. To change this, click the project and then click the "visibility" toggle in the top left.
+  info_caption:
+    label: How to add and edit captions
+    type:  info
+    text:  >
+      You can easily add text to images by clicking the project folder on the left and then clicking the image file you want to caption. Text entered in the "caption" text area will be displayed below the image in the preview.
   info_not_showing:
     label: Why aren't my photos showing up on the homepage?
     type:  info

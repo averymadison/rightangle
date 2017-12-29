@@ -1,26 +1,21 @@
 title: Project
 pages: false
 files: true
+  fields:
+    caption:
+      label: Caption
+      type: textarea
 fields:
   title:
     label: Title
     type:  text
-  text:
-    label: Text
-    type:  textarea
   category:
     label: Category
     type: select
     required: true
-    width: 1/2
     options:
       furniture: Furniture
       remodel: Remodel
-    help:  Choose the right category to help people sort photos using the filter bar on the homepage.
-  woods:
-    label: Wood Types
-    type:  tags
-    index: siblings
-    lower: true
-    width: 1/2
+      featured: Mixed
+    help:  Choose the right category to help people sort photos using the filter bar on the homepage. The "mixed" category gets excluded from filter results.
 
