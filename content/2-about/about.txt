@@ -14,7 +14,7 @@ On nights and weekends, I continued to woodwork, and in 2003 I left Marine Conce
 
 Beliefs: 
 
-My background prepared me to execute complex projects on time and on budget. (link: /process text: I believe in doing things well) and take pride in creating furniture that is comfortable, durable, and stylish.
+My background prepared me to execute complex projects on time and on budget. I believe in doing things well and take pride in creating furniture that is comfortable, durable, and stylish.
 
 I construct all of my furniture from non-endangered wood where natural reforestation outpaces harvesting.
 
@@ -22,4 +22,5 @@ If you're interested in custom furniture or remodeling, send me an email or give
 
 ----
 
-Footnotes: This website was designed and coded by (link: http://kyledecker.me/ text: Kyle Decker). Source code is freely available on (link: https://github.com/kdeckr/rightangle text: Github).
+Footnotes: This website was designed and coded by (link: http://kyledecker.me/ text: Kyle Decker).
+Source code is freely available on (link: https://github.com/kdeckr/rightangle text: Github).

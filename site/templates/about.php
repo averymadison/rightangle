@@ -17,8 +17,6 @@
 
   <div class="call-to-action">
     <a href="<?= page('contact')->url() ?>" class="button">Get in touch</a>
-    <span class="or">or</span>
-    <a href="<?= page('process')->url() ?>" class="button">Learn about my process</a>
   </div>
 
   <div class="page-content footnotes">
