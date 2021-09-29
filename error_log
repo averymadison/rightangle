@@ -1,0 +1,3 @@
+[08-Dec-2018 00:29:01 America/New_York] PHP Fatal error:  Cannot destroy active lambda function in [no active file] on line 0
+[11-Aug-2019 14:25:02 UTC] PHP Fatal error:  Call to a member function url() on boolean in /home/kyle/rightanglewoodworks.com/site/templates/about.php on line 21
+[11-Aug-2019 14:25:05 UTC] PHP Fatal error:  Call to a member function url() on boolean in /home/kyle/rightanglewoodworks.com/site/templates/about.php on line 21

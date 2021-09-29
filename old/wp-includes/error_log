@@ -1,0 +1,7 @@
+[27-Dec-2016 19:04:38 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kyle/public_html/wp-includes/registration-functions.php on line 7
+[27-Dec-2016 19:04:38 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kyle/public_html/wp-includes/registration-functions.php on line 7
+[09-Jan-2017 09:14:54 America/Detroit] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kyle/public_html/wp-includes/functions.php on line 8
+[09-Jan-2017 09:14:54 America/Detroit] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/kyle/public_html/wp-includes/functions.php on line 8
+[09-Jan-2017 09:14:54 America/Detroit] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php:/usr/local/php54/lib/php') in /home/kyle/public_html/wp-includes/functions.php on line 8
+[09-Mar-2017 23:41:19 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kyle/public_html/wp-includes/rss-functions.php on line 8
+[22-Mar-2017 10:04:14 America/Detroit] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/kyle/public_html/wp-includes/registration-functions.php on line 7

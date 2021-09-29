@@ -1,0 +1,166 @@
+/* Add your custom styles below to override the defaults */
+
+html, body { background: #B06F46 url("/images/wood.gif") repeat top fixed; }
+
+#header {
+	margin: 0 auto;
+	position:relative;
+}
+
+#wrapper { width: 900px;  margin: 0 auto; }
+
+#main {
+	background: #faf9f4 url(/images/content_bg.png) repeat-y left;
+	box-shadow: 0px 1px 5px rgba(0,0,0,0.75), inset 0 -3px 3px rgba(0,0,0,0.25);
+	border-radius: 6px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+h1#blog-title {
+	width: 342px;
+	margin: 0 auto;
+}
+
+#footer {
+	width: 900px;
+	margin: 0 auto;
+	padding: 35px 0;
+	color: rgba(0,0,0,0.9);
+	text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+}
+
+	#footer h3 {
+		text-align: center;
+		font-size: 18px;
+		color: #faf9f4;
+		text-shadow: 0 1px 0 rgba(0,0,0,0.9);
+		text-transform: uppercase;
+		margin-bottom: 15px;
+		letter-spacing: 1px;
+	}
+
+	.contact a {
+		color: rgba(0,0,0,0.9);
+	}
+
+	.contact a:hover {
+		text-decoration: underline;
+	}
+
+	.contact {
+		width: 100%;
+		text-align: center;
+		margin: 0;
+	}
+
+	.contact li {
+		display: inline-block;
+		margin: 0 15px;
+		font-size: 16px;
+	}
+
+		.contact li img {
+			position: relative;
+			top: 7px;
+			right: 2px;
+		}
+
+.notice {
+	background: #f5ee3d url("/images/alert.png") repeat-x top;
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #907300;
+	text-shadow: yellow 0 1px 0;
+	padding: 5px 8px;
+	border-bottom: 1px solid yellow;
+	border-top: 1px solid yellow;
+	text-align: center;
+	box-shadow: 0px 1px 3px rgba(0,0,0,0.5);
+	display: none;
+}
+
+.redbutton, input[type="submit"] {
+	color: #faf9f4;
+	text-shadow: rgba(0,0,0,0.8) 0px 1px 0px;
+	font-size: 14px;
+	height: 16px;
+	padding: 6px 14px;
+	background: #ad3330 url("/images/redbutton.png") repeat-x top;
+	border-width: 1px 1px 3px 1px;
+	border-style: solid;
+	border-color: #742320;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-sizing: content-box;
+}
+
+.redbutton.large { padding: 14px 30px; font-size: 16px; }
+
+	.redbutton:hover, input[type="submit"]:hover {
+		color: #faf9f4;
+		background-position: 0 -50px;
+		cursor: pointer;
+	}
+
+	.redbutton:active, input[type="submit"]:active {
+		color: rgba(0,0,0,0.9);
+		text-shadow: 0px 1px 0px rgba(255,255,255,0.3);
+		position: relative;
+		top: 2px;
+		background-position: 0 -100px;
+		border-width: 1px;
+	}
+
+input, textarea {
+	background: #f8f8f8;
+	border: 1px solid #e2e2e2;
+	padding: 8px 8px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+input[type="text"], textarea {
+	width: 600px;
+}
+
+input[type="text"]:active, textarea:active {
+	border-color:
+}
+
+textarea {
+	resize: vertical;
+}
+
+.clear {
+	clear: both;
+}
+
+.contactjohn { margin-top: 25px; }
+
+.contactjohn input[type="text"], .contactjohn textarea {
+	width: 400px;
+}
+
+.drop-cap {
+	display: block;
+	font-style: normal;
+	font-size: 5.4em;
+	float: left;
+	margin: .13em .1em 0 -.1em;
+	line-height: .67em;
+}
+
+.philosophy {
+	background: url("/images/paragraphbreak.png") no-repeat center;
+	padding: 15px 0 15px 0;
+}
+
+.mission {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+-webkit-column-gap: 20px;
+-moz-column-gap: 20px;
+}

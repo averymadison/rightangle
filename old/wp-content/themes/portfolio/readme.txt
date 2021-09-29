@@ -1,0 +1,1 @@
+All documentation for this theme is maintained online  at http://demo.madebyraygun.com/portfolio/documentation.
