@@ -62,9 +62,7 @@ Testimonials:
   customer: 'Alyce & Mark Eisenhauer'
   location: Pisgah Forest, NC
 - 
-  quote: |
-    I had a house fire which caused structural, electric, water and smoke damage. John and his crew, Adam and Alan, were awesome. I was given thorough and accurate written estimates. They were always prompt,
-    efficient and hardworking. They cleaned up nightly, so I wasn't living in a mess. I am extremely pleased with everything. No surprises—just high quality work!
+  quote: "I had a house fire which caused structural, electric, water and smoke damage. John and his crew, Adam and Alan, were awesome. I was given thorough and accurate written estimates. They were always prompt, efficient and hardworking. They cleaned up nightly, so I wasn't living in a mess. I am extremely pleased with everything. No surprises—just high quality work!"
   customer: Joan Wagner
   location: Lebanon, TN
 - 
@@ -78,4 +76,12 @@ Testimonials:
     of his work, easy to be around and
     extremely neat. A joy to work with.
   customer: Linda England
+  location: Hendersonville, NC
+- 
+  quote: "I am always sad when John isn't working on something for me, because when he *is* working for me I know I'll have something precise and beautiful to see in the near future. Whatever it is, it will be ready on time and on budget, a rarity these days. We have even had John do a major remodeling in the Keys while we were in Asheville, and a major remodeling in Asheville while we were in the Keys. He is the only man I would fully entrust my homes to in such a manner."
+  customer: 'Lee & Andrea Rushlow'
+  location: Asheville, NC
+- 
+  quote: "John's attention to detail was second to none! I was looking to create a functional and beautiful bathroom that could meet all my needs. Because of John's thorough planning, creativity, ability to maximize our space and his willingness to listen to what I wanted made for an exceptional experience."
+  customer: Ileta Silvia
   location: Hendersonville, NC
