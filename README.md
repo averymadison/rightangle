@@ -3,9 +3,6 @@
 Right Angle Woodworks is the portfolio site for John Decker, craftsman.
 <http://rightanglewoodworks.com>
 
-It was designed and coded by Kyle Decker, his son.
-<http://kyledecker.me>
-
 ## Credits
 
 This site was built using [Kirby](http://getkirby.com/).
